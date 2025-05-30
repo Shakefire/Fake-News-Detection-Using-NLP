@@ -42,12 +42,12 @@ def load_model():
 model = load_model()
 
 # Main title
-st.title("🔍 Solvix NewsAnalyzer: Fake News Detection System")
+st.title("🔍 NewsAnalyzer: Fake News Detection System")
 st.markdown(
-    "Solvix NewsAnalyzer - Advanced AI-powered system for fake news detection using NLP")
+    "NewsAnalyzer - Advanced AI-powered system for fake news detection using NLP")
 
 # Sidebar navigation
-st.sidebar.title("Solvix NewsAnalyzer Navigation")
+st.sidebar.title("NewsAnalyzer Navigation")
 page = st.sidebar.selectbox("Choose a feature:", [
     "Main Classifier",
     "Prediction History",
@@ -266,7 +266,7 @@ if page == "Main Classifier":
                                 st.write(summary)
 
 # User Feedback System
-st.header("👥 Solvix NewsAnalyzer User Feedback")
+st.header("👥 NewsAnalyzer User Feedback")
 
 feedback_col1, feedback_col2 = st.columns(2)
 
@@ -330,7 +330,7 @@ with col2:
             st.plotly_chart(fig_trend, use_container_width=True)
 
 if page == "Prediction History":
-    st.header("📚 Solvix NewsAnalyzer Prediction History")
+    st.header("📚 NewsAnalyzer Prediction History")
 
     if st.session_state.prediction_history:
         # Create DataFrame for history
@@ -633,7 +633,7 @@ def generate_fact_check_response(prompt):
 # Sidebar additional info
 with st.sidebar:
     st.markdown("---")
-    st.subheader("📈 Solvix NewsAnalyzer System Stats")
+    st.subheader("📈 NewsAnalyzer System Stats")
 
     total_analyzed = len(st.session_state.prediction_history)
     st.metric("Articles Analyzed", total_analyzed)
@@ -658,7 +658,7 @@ with st.sidebar:
             st.metric("User Satisfaction", f"{user_satisfaction:.1f}%")
 
     st.markdown("---")
-    st.markdown("**💡 Solvix NewsAnalyzer Tips:**")
+    st.markdown("**💡 NewsAnalyzer Tips:**")
     st.markdown("• Upload articles with at least 50 words")
     st.markdown("• Check multiple sources for verification")
     st.markdown("• Pay attention to bias and sentiment analysis")

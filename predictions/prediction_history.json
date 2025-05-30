@@ -1,0 +1,2836 @@
+[
+  {
+    "id": 1,
+    "timestamp": "2025-05-30T11:34:19.203228",
+    "text": "Mauritania\u2019s Sidi Ould Tah Elected New AfDB President\nTah, who headed the Arab Bank for Economic Development in Africa (BADEA) for 10 years, secured 72.37 percent of African votes.\n\nBy Ignatius Igwe\nUpdated May 29, 2025\n   \n\nNew AfDB President, Sidi Ould Tah\n \n\nMauritania\u2019s former economy minister Sidi Ould Tah was on Thursday elected to succeed Nigeria\u2019s Akinwumi Adesina as president of the African Development Bank (AfDB) and tackle the withdrawal of US financing from the institution.\n\nIn 2015 ...",
+    "full_text_length": 1356,
+    "prediction": "Real",
+    "confidence": 0.803037898673307,
+    "model_used": "fakenews_logistic_20250530_0120",
+    "sentiment": {
+      "polarity": 0.13124098124098124,
+      "subjectivity": 0.3381313131313131,
+      "label": "Positive"
+    },
+    "bias": {
+      "political_bias": 0.0,
+      "emotional_intensity": 0.0,
+      "tone": "Neutral"
+    },
+    "feature_importance": {
+      "headed": -1.2759807662962035,
+      "president": -0.8959322014330097,
+      "took": 0.7786524367899473,
+      "second": 0.6140580536541567,
+      "race": 0.6019095764381039,
+      "offered": -0.5905243203674101,
+      "group": 0.5801212653821628,
+      "said": -0.5377692125656488,
+      "votes": -0.5351731925155987,
+      "future": -0.499275289053079
+    }
+  },
+  {
+    "id": 2,
+    "timestamp": "2025-05-30T11:34:44.297354",
+    "text": "I woke up this morning to find a variation of this headline splashed all over my news feed:\n\nBill Clinton: \u2018Natural\u2019 For Foundation Donors to Seek Favors\n\nHere\u2019s Google:\n\nNaturally, my reaction was \u201coh, s**t, what did Bill Clinton do to damage his wife\u2019s campaign now?\u201d\n\nOf course, the headline sounds really, really awful. It plays right into the idea that the Clinton Foundation is all about pay to play, just like Donald Trump has been saying all along. Unfortunately, it takes reading beyond the ...",
+    "full_text_length": 3218,
+    "prediction": "Fake",
+    "confidence": 0.7129508441270476,
+    "model_used": "fakenews_logistic_20250530_0120",
+    "sentiment": {
+      "polarity": 0.02042929292929293,
+      "subjectivity": 0.40945842352092354,
+      "label": "Neutral"
+    },
+    "bias": {
+      "political_bias": 0.0,
+      "emotional_intensity": 0.018796992481203006,
+      "tone": "Neutral"
+    },
+    "feature_importance": {
+      "trump": -4.3553276585986795,
+      "did": -1.9982832950070282,
+      "reports": -1.8461099821648588,
+      "trumps": -1.7500245497454074,
+      "source": -1.7183687077543703,
+      "things": 1.5075482482623808,
+      "donald trump": -1.4061702065038684,
+      "evidence": -1.383410951421958,
+      "clinton": -1.256204028266159,
+      "pay": -1.2117774439897617
+    }
+  },
+  {
+    "id": 2,
+    "timestamp": "2025-05-30T11:34:44.349239",
+    "text": "Former President Bill Clinton and his Clinton Health Access Initiative (CHAI) distributed \u201cwatered-down\u201d HIV/AIDs drugs to patients in sub-Saharan Africa, and \u201clikely increased\u201d the risks of morbidity and mortality, according to a draft congressional report obtained by The Daily Caller News Foundation.\n\nThe congressional report, titled,\u201cThe Clinton Foundation and The India Success Story,\u201d was initiated by Rep. Marsha Blackburn, a Tennessee Republican and vice-chair of the House Energy and Commer...",
+    "full_text_length": 8837,
+    "prediction": "Fake",
+    "confidence": 0.5588146823448799,
+    "model_used": "fakenews_logistic_20250530_0120",
+    "sentiment": {
+      "polarity": 0.05066756675667566,
+      "subjectivity": 0.42603081736745085,
+      "label": "Neutral"
+    },
+    "bias": {
+      "political_bias": 0.0,
+      "emotional_intensity": 0.0,
+      "tone": "Neutral"
+    },
+    "feature_importance": {
+      "report": -4.531116837929226,
+      "despite": -2.7223259649407687,
+      "best": 1.8287736222087374,
+      "star": 1.7684459950382676,
+      "george": -1.729772568860296,
+      "met": 1.6139049907513765,
+      "going": -1.5156207576518121,
+      "evidence": -1.383410951421958,
+      "hes": -1.3369057106927025,
+      "clinton": -1.256204028266159
+    }
+  },
+  {
+    "id": 2,
+    "timestamp": "2025-05-30T11:34:44.393447",
+    "text": "After collapsing just before trying to step into her van after being removed from the 9-11 ceremony in New York City, Hillary Clinton emerged from her daughter\u2019s apartment seeming like a new person. Too new to be believed as a matter of fact, since the Hillary at Chelsea Clinton\u2019s apartment was noticeably well and energetic. Even more unbelievable was the difference in appearance such as her being many pounds lighter, more vibrant, and apparently having a sort of drive through type rhinoplasty p...",
+    "full_text_length": 3471,
+    "prediction": "Real",
+    "confidence": 0.5566596075840565,
+    "model_used": "fakenews_logistic_20250530_0120",
+    "sentiment": {
+      "polarity": 0.08683144812177072,
+      "subjectivity": 0.40918726434855457,
+      "label": "Neutral"
+    },
+    "bias": {
+      "political_bias": 0.0,
+      "emotional_intensity": 0.0,
+      "tone": "Neutral"
+    },
+    "feature_importance": {
+      "trump": -4.3553276585986795,
+      "obama": -1.6263975056422024,
+      "having": -1.5998329960471116,
+      "donald trump": -1.4061702065038684,
+      "mystery": -1.327696162682204,
+      "clinton": -1.256204028266159,
+      "time": 1.246448350321189,
+      "actually": 1.2187857199856225,
+      "donald": -1.1950080184015088,
+      "man": -1.1305419594159196
+    }
+  },
+  {
+    "id": 2,
+    "timestamp": "2025-05-30T11:34:44.450558",
+    "text": "Donald Trump is, well, deplorable. He\u2019s suggested building a wall to keep invading hordes of brown-skinned \u201crapists\u201d and \u201cdrug dealers\u201d from charging into the country, gotten on board with creating a national registry for Muslims like Hitler did with the Jews, forcing said Muslims to wear special identification badges, and even rounding them up into modern-day concentration camps as a \u201ctemporary measure.\u201d He\u2019s even suggested outright murdering the families of terrorists abroad:\n\n\u201cThe other thing...",
+    "full_text_length": 4454,
+    "prediction": "Fake",
+    "confidence": 0.8869213775836463,
+    "model_used": "fakenews_logistic_20250530_0120",
+    "sentiment": {
+      "polarity": 0.03508495670995671,
+      "subjectivity": 0.4400583213083213,
+      "label": "Neutral"
+    },
+    "bias": {
+      "political_bias": 0.0,
+      "emotional_intensity": 0.0,
+      "tone": "Neutral"
+    },
+    "feature_importance": {
+      "report": -4.531116837929226,
+      "trump": -4.3553276585986795,
+      "did": -1.9982832950070282,
+      "trumps": -1.7500245497454074,
+      "obama": -1.6263975056422024,
+      "watch": 1.5985883099068119,
+      "wants": -1.5702922783890505,
+      "donald trump": -1.4061702065038684,
+      "hes": -1.3369057106927025,
+      "clinton": -1.256204028266159
+    }
+  },
+  {
+    "id": 2,
+    "timestamp": "2025-05-30T11:34:44.479681",
+    "text": "Website is Down For Maintenance",
+    "full_text_length": 31,
+    "prediction": "Real",
+    "confidence": 0.7056309494583352,
+    "model_used": "fakenews_logistic_20250530_0120",
+    "sentiment": {
+      "polarity": -0.15555555555555556,
+      "subjectivity": 0.2888888888888889,
+      "label": "Negative"
+    },
+    "bias": {
+      "political_bias": 0.0,
+      "emotional_intensity": 0.0,
+      "tone": "Neutral"
+    },
+    "feature_importance": {
+      "website": -0.7884978119088765
+    }
+  },
+  {
+    "id": 2,
+    "timestamp": "2025-05-30T11:34:44.522336",
+    "text": "When President Obama spoke at the United Nations he espoused the One World Government. He speaks of globalization in the fondest of terms: As if it is the do-all be-all for all the problems in the world. Also in the speech he referred to \u201ctrue democracy.\u201d If that is what he is for, then God help us.\n\nAs Written By Alex Pfeiffer for Daily Caller:\n\n\u2018Collision of cultures\u2019\n\nIn his last address before the United Nations Tuesday, President Barack Obama acknowledged that globalism has led \u201cto a collis...",
+    "full_text_length": 1232,
+    "prediction": "Real",
+    "confidence": 0.7183425161473029,
+    "model_used": "fakenews_logistic_20250530_0120",
+    "sentiment": {
+      "polarity": 0.14166666666666666,
+      "subjectivity": 0.2027777777777778,
+      "label": "Positive"
+    },
+    "bias": {
+      "political_bias": -1.0,
+      "emotional_intensity": 0.0,
+      "tone": "Biased"
+    },
+    "feature_importance": {
+      "obama": -1.6263975056422024,
+      "president": -0.8959322014330097,
+      "daily": 0.7161331504370484,
+      "god": -0.6880688350133786,
+      "alex": -0.6834754905587705,
+      "address": 0.6480841917369018,
+      "speaks": 0.6437256930896209,
+      "said": -0.5377692125656488,
+      "world": 0.5269161024344778,
+      "led": 0.4867396729720231
+    }
+  },
+  {
+    "id": 2,
+    "timestamp": "2025-05-30T11:34:44.570675",
+    "text": "Back when the news first broke about the pay-to-play corruption involving then-Secretary of State Hillary Clinton and the Clinton Foundation \u2013 where donors to the foundation were granted political access, including lavish White House State dinners \u2013 the Clinton campaign responded by focusing on all the supposed \u201cgood\u201d that the foundation has done over the years.\n\nI don\u2019t think anyone was fooled into thinking that the Clinton Foundation was anything other than a money-making machine for the Clint...",
+    "full_text_length": 2295,
+    "prediction": "Real",
+    "confidence": 0.6953643686505713,
+    "model_used": "fakenews_logistic_20250530_0120",
+    "sentiment": {
+      "polarity": 0.11734234234234232,
+      "subjectivity": 0.4045045045045045,
+      "label": "Positive"
+    },
+    "bias": {
+      "political_bias": 0.0,
+      "emotional_intensity": 0.0,
+      "tone": "Neutral"
+    },
+    "feature_importance": {
+      "despite": -2.7223259649407687,
+      "things": 1.5075482482623808,
+      "evidence": -1.383410951421958,
+      "clinton": -1.256204028266159,
+      "actually": 1.2187857199856225,
+      "friends": -0.9827840558306814,
+      "hair": 0.9669180568711212,
+      "charity": 0.9147032031968627,
+      "news": -0.8830044158107795,
+      "people": -0.8286069703292162
+    }
+  },
+  {
+    "id": 2,
+    "timestamp": "2025-05-30T11:34:44.612335",
+    "text": "On September 15, Hillary \u201capparently\u201d held a rally in the Old Student Recreational Center at the University of North Carolina in Greensboro, NC. This was her first public appearance since she convulsed and had to be lifted into her van following the 9-11 memorial in NYC. Hillary\u2019s campaign was quick to blame the heat until they discovered conservative websites were able to quickly access the weather and determine that it was a balmy 74 degrees in NYC! Hillary was quickly whisked away to her daug...",
+    "full_text_length": 1289,
+    "prediction": "Real",
+    "confidence": 0.8796800841964993,
+    "model_used": "fakenews_logistic_20250530_0120",
+    "sentiment": {
+      "polarity": 0.2131578947368421,
+      "subjectivity": 0.39371345029239757,
+      "label": "Positive"
+    },
+    "bias": {
+      "political_bias": 1.0,
+      "emotional_intensity": 0.0,
+      "tone": "Biased"
+    },
+    "feature_importance": {
+      "did": -1.9982832950070282,
+      "watch": 1.5985883099068119,
+      "daughter": 1.2600140013225825,
+      "like": 0.8227083589465254,
+      "way": 0.7989187392124397,
+      "nyc": 0.7662752215167796,
+      "appears": 0.754536533248072,
+      "make": 0.6955312402956356,
+      "away": -0.687366533532424,
+      "hillary": -0.6748488283393733
+    }
+  },
+  {
+    "id": 2,
+    "timestamp": "2025-05-30T11:34:44.665847",
+    "text": "I can\u2019t wait for \u201cWeekend at Chelsea\u2019s\u201d to hit the big screen. CNN and the rest of Hillary Clinton\u2019s slobbering media sycophants have already written the script. If this woman, God forbid, dropped dead on the sidewalk tomorrow, these doting suck-ups \u2013 these mass media strumpets whose voter trust has, understandably, reached an all-time low \u2013 would dutifully parrot the Clinton campaign talking points and call it a \u201cminor setback\u201d to her \u201cinevitable\u201d victory.\n\nThe American people aren\u2019t buying it....",
+    "full_text_length": 5741,
+    "prediction": "Fake",
+    "confidence": 0.5837035473036559,
+    "model_used": "fakenews_logistic_20250530_0120",
+    "sentiment": {
+      "polarity": 0.012224146224146233,
+      "subjectivity": 0.4543055555555557,
+      "label": "Neutral"
+    },
+    "bias": {
+      "political_bias": 0.0,
+      "emotional_intensity": 0.0,
+      "tone": "Neutral"
+    },
+    "feature_importance": {
+      "despite": -2.7223259649407687,
+      "caught": -2.1818975484538283,
+      "secret": -1.8955863651327074,
+      "best": 1.8287736222087374,
+      "crisis": -1.767401067361722,
+      "trumps": -1.7500245497454074,
+      "plans": -1.72692396875073,
+      "robert": -1.6807345173672517,
+      "obama": -1.6263975056422024,
+      "watch": 1.5985883099068119
+    }
+  },
+  {
+    "id": 2,
+    "timestamp": "2025-05-30T11:34:44.708211",
+    "text": "Olympic Committee Buckles to LGBT Groups... Makes 2018 Games Completely Unfair There's been a major change to the 2018 Winter Olympics, courtesy of the International Olympic Committee... and it shows just how pervasive the LGBT agenda has become. Sadly, what they just did is going to make the games completely unfair. Read more\u2026",
+    "full_text_length": 329,
+    "prediction": "Real",
+    "confidence": 0.8422503296126781,
+    "model_used": "fakenews_logistic_20250530_0120",
+    "sentiment": {
+      "polarity": -0.2875,
+      "subjectivity": 0.7,
+      "label": "Negative"
+    },
+    "bias": {
+      "political_bias": 0.0,
+      "emotional_intensity": 0.0,
+      "tone": "Neutral"
+    },
+    "feature_importance": {
+      "did": -1.9982832950070282,
+      "going": -1.5156207576518121,
+      "makes": 1.1462263021814976,
+      "make": 0.6955312402956356,
+      "change": -0.6300277473869846,
+      "just": -0.5889021984237868,
+      "major": -0.5667616990333987,
+      "completely": -0.5550691798503309,
+      "olympic": 0.5442976264832462,
+      "olympics": 0.521012138738754
+    }
+  },
+  {
+    "id": 2,
+    "timestamp": "2025-05-30T11:34:44.745070",
+    "text": "Obama made a real fool out of himself during what was supposed to be his final address to the U.N. Assembly. During it he basically said that we have no chance in defeating ISIS and other Islamic extremist groups in Syria and otherwise. He spoke heavily to the shortcomings in military power that we have in combatting his \"JV team.\"\n\nSeeing as the U.S. is the global police force, he said that we have no chance of winning this battle.\n\nThe Daily Caller reports that Obama touched heavily upon the m...",
+    "full_text_length": 2587,
+    "prediction": "Real",
+    "confidence": 0.6522254370670973,
+    "model_used": "fakenews_logistic_20250530_0120",
+    "sentiment": {
+      "polarity": 0.023588435374149657,
+      "subjectivity": 0.46453514739229035,
+      "label": "Neutral"
+    },
+    "bias": {
+      "political_bias": 0.0,
+      "emotional_intensity": 0.0,
+      "tone": "Neutral"
+    },
+    "feature_importance": {
+      "reports": -1.8461099821648588,
+      "source": -1.7183687077543703,
+      "obama": -1.6263975056422024,
+      "going": -1.5156207576518121,
+      "afraid": -1.409642452596035,
+      "muslim": -1.250618107838548,
+      "time": 1.246448350321189,
+      "got": 1.149771933662576,
+      "makes": 1.1462263021814976,
+      "today": -0.9497679857190744
+    }
+  },
+  {
+    "id": 2,
+    "timestamp": "2025-05-30T11:34:44.788620",
+    "text": "Thanks in part to the declassification of Defense Intelligence documents, connecting those missing dots seems to have finally reveled what most Middle East observers have suspected all along, that the rise of the terrorist group ISIS and the likelihood of establishing a terror state (a caliphate), had been predicated by both the CIA and DIA, as far back as 2012.\n\nAnd purposely created by the Obama Administration in part to isolate the Syrian government of President Bashar al-Assad. The documents...",
+    "full_text_length": 2189,
+    "prediction": "Real",
+    "confidence": 0.6756160866070453,
+    "model_used": "fakenews_logistic_20250530_0120",
+    "sentiment": {
+      "polarity": 0.059,
+      "subjectivity": 0.4576190476190476,
+      "label": "Neutral"
+    },
+    "bias": {
+      "political_bias": 1.0,
+      "emotional_intensity": 0.0,
+      "tone": "Biased"
+    },
+    "feature_importance": {
+      "report": -4.531116837929226,
+      "despite": -2.7223259649407687,
+      "reveals": 2.0285766169362973,
+      "obama": -1.6263975056422024,
+      "watch": 1.5985883099068119,
+      "leaving": -0.9270434140334138,
+      "president": -0.8959322014330097,
+      "finally": 0.8914534546874515,
+      "thanks": 0.8754695352822092,
+      "isis": -0.8450322881332706
+    }
+  },
+  {
+    "id": 2,
+    "timestamp": "2025-05-30T11:34:44.830289",
+    "text": "After collapsing just before trying to step into her van after being removed from the 9-11 ceremony in New York City, Hillary Clinton emerged from her daughter\u2019s apartment seeming like a new person. Too new to be believed as a matter of fact, since the Hillary at Chelsea Clinton\u2019s apartment was noticeably well and energetic. Even more unbelievable was the difference in appearance such as her being many pounds lighter, more vibrant, and apparently having a sort of drive through type rhinoplasty p...",
+    "full_text_length": 3471,
+    "prediction": "Real",
+    "confidence": 0.5566596075840565,
+    "model_used": "fakenews_logistic_20250530_0120",
+    "sentiment": {
+      "polarity": 0.08683144812177072,
+      "subjectivity": 0.40918726434855457,
+      "label": "Neutral"
+    },
+    "bias": {
+      "political_bias": 0.0,
+      "emotional_intensity": 0.0,
+      "tone": "Neutral"
+    },
+    "feature_importance": {
+      "trump": -4.3553276585986795,
+      "obama": -1.6263975056422024,
+      "having": -1.5998329960471116,
+      "donald trump": -1.4061702065038684,
+      "mystery": -1.327696162682204,
+      "clinton": -1.256204028266159,
+      "time": 1.246448350321189,
+      "actually": 1.2187857199856225,
+      "donald": -1.1950080184015088,
+      "man": -1.1305419594159196
+    }
+  },
+  {
+    "id": 2,
+    "timestamp": "2025-05-30T11:34:44.869520",
+    "text": "BREAKING: Did Hillary Clinton Have a Nervous Breakdown?\n\nRumors have surfaced that Hillary Clinton may be having a nervous breakdown.\n\nIn this video we posted yesterday, Clinton appears to lose eye control. Shortly after this event, she canceled her posh fundraiser in North Carolina scheduled for the same day, mere minutes down the road from where she was. However it\u2019s was worse than we thought, as one of our researchers discovered this about Hillary Clinton\u2019s schedule.\n\nInteresting fact\u2026.I just...",
+    "full_text_length": 2117,
+    "prediction": "Fake",
+    "confidence": 0.5910575532790705,
+    "model_used": "fakenews_logistic_20250530_0120",
+    "sentiment": {
+      "polarity": 0.052647569444444445,
+      "subjectivity": 0.4542534722222222,
+      "label": "Neutral"
+    },
+    "bias": {
+      "political_bias": 0.0,
+      "emotional_intensity": 0.0,
+      "tone": "Neutral"
+    },
+    "feature_importance": {
+      "breaking": -4.4073816070765295,
+      "trump": -4.3553276585986795,
+      "rumors": -2.161864418256957,
+      "did": -1.9982832950070282,
+      "secret": -1.8955863651327074,
+      "best": 1.8287736222087374,
+      "having": -1.5998329960471116,
+      "list": -1.4698733885259232,
+      "clinton": -1.256204028266159,
+      "breakdown": -1.173516111695317
+    }
+  },
+  {
+    "id": 2,
+    "timestamp": "2025-05-30T11:34:44.938171",
+    "text": "It was late one night in the White House when Obama first came up with the idea for ISIS. He hadn\u2019t been sleeping well. Michelle told him to take some deep breaths, have some hot milk, and rewatch Princess Bride, but he\u2019d made it all the way to the Billy Crystal scene, and he was out of milk, and Michelle had started snoring. The snoring was loud and nasty and kind of wet-sounding, like a broken boat was giving birth to another boat. He had to get out of there.\r\n\r\nFirst, he headed down to the Ov...",
+    "full_text_length": 7688,
+    "prediction": "Real",
+    "confidence": 0.618017820490643,
+    "model_used": "fakenews_logistic_20250530_0120",
+    "sentiment": {
+      "polarity": 0.06515775384388522,
+      "subjectivity": 0.4639022858730888,
+      "label": "Neutral"
+    },
+    "bias": {
+      "political_bias": 0.0,
+      "emotional_intensity": 0.007092198581560284,
+      "tone": "Neutral"
+    },
+    "feature_importance": {
+      "trump": -4.3553276585986795,
+      "season": 3.3642590479622747,
+      "did": -1.9982832950070282,
+      "secret": -1.8955863651327074,
+      "best": 1.8287736222087374,
+      "plans": -1.72692396875073,
+      "obama": -1.6263975056422024,
+      "going": -1.5156207576518121,
+      "hell": -1.4829671394678674,
+      "donald trump": -1.4061702065038684
+    }
+  },
+  {
+    "id": 2,
+    "timestamp": "2025-05-30T11:34:44.995992",
+    "text": "\n\nPosted by Frank Wilkenmeyer on 19 Sep 2016\n\nWe\u2019ve all seen campaign promises go horribly wrong. One of the most famous is probably \u201cread my lips\u2026no new taxes,\u201d a moment in time that won an election and lost the next after George HW Bush made the promise but signed the largest tax increase in the history of tax increases. What Donald Trump just promised as a reaction to the attacks over the weekend in Chelsea and Minnesota may have that beat:\n\n.@JasonMillerinDC: Statement on Last Weekend\u2019s Terr...",
+    "full_text_length": 3515,
+    "prediction": "Fake",
+    "confidence": 0.7521778634334311,
+    "model_used": "fakenews_logistic_20250530_0120",
+    "sentiment": {
+      "polarity": 0.025199540043290034,
+      "subjectivity": 0.4509255501443002,
+      "label": "Neutral"
+    },
+    "bias": {
+      "political_bias": 0.0,
+      "emotional_intensity": 0.0,
+      "tone": "Neutral"
+    },
+    "feature_importance": {
+      "trump": -4.3553276585986795,
+      "trumps": -1.7500245497454074,
+      "george": -1.729772568860296,
+      "obama": -1.6263975056422024,
+      "going": -1.5156207576518121,
+      "list": -1.4698733885259232,
+      "donald trump": -1.4061702065038684,
+      "hes": -1.3369057106927025,
+      "clinton": -1.256204028266159,
+      "muslim": -1.250618107838548
+    }
+  },
+  {
+    "id": 2,
+    "timestamp": "2025-05-30T11:34:45.039560",
+    "text": "With the growing threat of terrorism around the world, and the increased hostilities from both the Soviet Union and North Korea, combined with a sustained and continuous policy of purging our military capabilities Army Chief of Staff Gen. Ray Odierno believes we\u2019ve reached a dangerous and pivotal tipping point.\n\nSpeaking at the AUSA Institute of Land Warfare Global Force Symposium and Exposition in Huntsville, Alabama, the General said; \u201cThe Army is only generating enough readiness for immediate...",
+    "full_text_length": 2051,
+    "prediction": "Real",
+    "confidence": 0.7490391918927031,
+    "model_used": "fakenews_logistic_20250530_0120",
+    "sentiment": {
+      "polarity": 0.04023569023569024,
+      "subjectivity": 0.49555074555074546,
+      "label": "Neutral"
+    },
+    "bias": {
+      "political_bias": 0.0,
+      "emotional_intensity": 0.0,
+      "tone": "Neutral"
+    },
+    "feature_importance": {
+      "obama": -1.6263975056422024,
+      "alabama": -1.492781467525338,
+      "today": -0.9497679857190744,
+      "fighting": -0.9006561772478447,
+      "isis": -0.8450322881332706,
+      "nation": -0.6704956598272699,
+      "advice": 0.6699421734618906,
+      "change": -0.6300277473869846,
+      "just": -0.5889021984237868,
+      "terrorism": -0.5592754414362173
+    }
+  },
+  {
+    "id": 2,
+    "timestamp": "2025-05-30T11:34:45.076166",
+    "text": "What would possess anyone to take control of the Internet away from the United States and put it under control of ICANN, composed of 182 foreign countries? That cannot bode well for freedom of speech, thought, and ideas. Senator Ted Cruz leads the fight in these videos. Congress MUST ACT NOW!\n\nAs Written By Senator Ted Cruz:\n\nThe Obama administration is pushing through a radical proposal to take control of Internet domains and instead give it to an international organization, ICANN, that include...",
+    "full_text_length": 1082,
+    "prediction": "Real",
+    "confidence": 0.7906090195637082,
+    "model_used": "fakenews_logistic_20250530_0120",
+    "sentiment": {
+      "polarity": 0.16253306878306878,
+      "subjectivity": 0.44563492063492066,
+      "label": "Positive"
+    },
+    "bias": {
+      "political_bias": 0.0,
+      "emotional_intensity": 0.0,
+      "tone": "Neutral"
+    },
+    "feature_importance": {
+      "obama": -1.6263975056422024,
+      "late": 1.0585466021940846,
+      "fight": -0.862187647102641,
+      "texas": -0.857825473360064,
+      "like": 0.8227083589465254,
+      "control": -0.8198022343483705,
+      "instead": -0.7688472546369848,
+      "let": -0.7162685539316072,
+      "away": -0.687366533532424,
+      "pushing": -0.6058132231267285
+    }
+  },
+  {
+    "id": 2,
+    "timestamp": "2025-05-30T11:34:45.111897",
+    "text": "Clemson University freshmen may no longer publicly display Harambe-related memes because they \u201cadd to rape culture\u201d and can be \u201ca form of racism.\u201d\n\nThe ban was allegedly inspired by an incident that occurred last week, but administrators are refusing to divulge any details.\n\nA Clemson administrator sent an email to Resident Advisors (RAs) Friday instructing them to demand that freshman remove all Harambe references from dorm hallways and windows.\n\nThe administrator claimed Harambe\u2019s death has be...",
+    "full_text_length": 1120,
+    "prediction": "Real",
+    "confidence": 0.8293213696452503,
+    "model_used": "fakenews_logistic_20250530_0120",
+    "sentiment": {
+      "polarity": -0.053125000000000006,
+      "subjectivity": 0.296875,
+      "label": "Neutral"
+    },
+    "bias": {
+      "political_bias": 0.0,
+      "emotional_intensity": 0.0,
+      "tone": "Neutral"
+    },
+    "feature_importance": {
+      "ban": -1.4104250580583977,
+      "claimed": -0.9449333751538728,
+      "longer": 0.8841888442392859,
+      "state": -0.8178456028785138,
+      "allegedly": 0.7594300284019139,
+      "trouble": -0.7311533618409602,
+      "refusing": -0.6283783692388141,
+      "racism": -0.6210442357347284,
+      "references": 0.5472748770603989,
+      "death": -0.5453300818312622
+    }
+  },
+  {
+    "id": 2,
+    "timestamp": "2025-05-30T11:34:45.175230",
+    "text": "In every state there is a law governing the method and procedure for conducting elections. The National Democratic Party, a \u201cpowerful hate group,\u201d has been engaged in an all-out effort to steal elections, by any means available.\n\n[ Read Related Article: The Democratic Party: America\u2019s Most Powerful HATE Group\n\nAs a Christian and Constitutional Conservative who has studied political science and understands what the Democrats are plotting, it is this author\u2019s contention that the party and its lead...",
+    "full_text_length": 3718,
+    "prediction": "Real",
+    "confidence": 0.5826146363410158,
+    "model_used": "fakenews_logistic_20250530_0120",
+    "sentiment": {
+      "polarity": -0.06896153846153845,
+      "subjectivity": 0.648875457875458,
+      "label": "Neutral"
+    },
+    "bias": {
+      "political_bias": 1.0,
+      "emotional_intensity": 0.01658374792703151,
+      "tone": "Biased"
+    },
+    "feature_importance": {
+      "trump": -4.3553276585986795,
+      "despite": -2.7223259649407687,
+      "obama": -1.6263975056422024,
+      "wants": -1.5702922783890505,
+      "things": 1.5075482482623808,
+      "hell": -1.4829671394678674,
+      "donald trump": -1.4061702065038684,
+      "illegal": -1.2618853469087574,
+      "claim": -1.255651557018903,
+      "donald": -1.1950080184015088
+    }
+  },
+  {
+    "id": 2,
+    "timestamp": "2025-05-30T11:34:45.223437",
+    "text": "A Daisy of a Rerun\n\nI am of an age which includes probably the first major political distortion in Presidential campaigning. That being the TV advertisement of an innocent little girl, sitting in a field picking daisy petals one by one, while a mushroom cloud arises in a most sinister fashion behind her.\n\nThe year was 1964 and the incumbent President Lyndon B Johnson \u201capproved\u201d that message. Only problem was that he followed the course in Vietnam which he was trying to assign onto his supposedly...",
+    "full_text_length": 5130,
+    "prediction": "Real",
+    "confidence": 0.5806860352418471,
+    "model_used": "fakenews_logistic_20250530_0120",
+    "sentiment": {
+      "polarity": 0.02599858664927158,
+      "subjectivity": 0.481168732333116,
+      "label": "Neutral"
+    },
+    "bias": {
+      "political_bias": -1.0,
+      "emotional_intensity": 0.0,
+      "tone": "Biased"
+    },
+    "feature_importance": {
+      "report": -4.531116837929226,
+      "trump": -4.3553276585986795,
+      "rumors": -2.161864418256957,
+      "exclusive": -2.1219282389840948,
+      "desperate": -1.8499705371732797,
+      "obama": -1.6263975056422024,
+      "clinton": -1.256204028266159,
+      "time": 1.246448350321189,
+      "tv": 1.2034811624346646,
+      "false": -1.1762195910310154
+    }
+  },
+  {
+    "id": 2,
+    "timestamp": "2025-05-30T11:34:45.268781",
+    "text": "We\u2019re shocked \u2014 SHOCKED \u2014 to learn that CNN\u2019s bias is so blatant in just about everything they do, not simply in reporting the news.\r\n\r\nFirst came Lester Holt\u2019s unbelievably one-sided moderation of the debate in which he routinely press and even attacked Donald Trump\u2019s record and answers while leaving Hillary untouched with no mention of any of the most obvious scandals.\r\n\r\nNow CNN has upped the ante on their own bias with a poll that isn\u2019t worth paper it was printed on.\r\n\r\nAccording to their po...",
+    "full_text_length": 878,
+    "prediction": "Real",
+    "confidence": 0.6456013049809732,
+    "model_used": "fakenews_logistic_20250530_0120",
+    "sentiment": {
+      "polarity": 4.270088556250602e-18,
+      "subjectivity": 0.5992673992673994,
+      "label": "Neutral"
+    },
+    "bias": {
+      "political_bias": 0.0,
+      "emotional_intensity": 0.0,
+      "tone": "Neutral"
+    },
+    "feature_importance": {
+      "trumps": -1.7500245497454074,
+      "didnt": -1.2124924499398362,
+      "donald": -1.1950080184015088,
+      "democrats": -1.1034685007729712,
+      "leaving": -0.9270434140334138,
+      "news": -0.8830044158107795,
+      "cnn": -0.7160251478722037,
+      "hillary": -0.6748488283393733,
+      "answers": 0.5967307455226585,
+      "just": -0.5889021984237868
+    }
+  },
+  {
+    "id": 2,
+    "timestamp": "2025-05-30T11:34:45.300340",
+    "text": "The Democrats are using an intimidation tactic which they are prone to use incessantly. If you question the veracity of a black president\u2019s birth certificate you are racist. That is the outright claim of Lynn Sweet Washington Bureau Chief for the Chicago Sun-Times made on Fox News. Consider the slanted claim that if a president is black and his birth certificate is called into question the conclusion is you must be a racist. What is wrong with this obvious non-sequitur?\n\nFirst of all, there is e...",
+    "full_text_length": 1449,
+    "prediction": "Real",
+    "confidence": 0.541843073216192,
+    "model_used": "fakenews_logistic_20250530_0120",
+    "sentiment": {
+      "polarity": -0.01911764705882353,
+      "subjectivity": 0.4829131652661065,
+      "label": "Neutral"
+    },
+    "bias": {
+      "political_bias": 0.0,
+      "emotional_intensity": 0.0,
+      "tone": "Neutral"
+    },
+    "feature_importance": {
+      "trump": -4.3553276585986795,
+      "obama": -1.6263975056422024,
+      "donald trump": -1.4061702065038684,
+      "evidence": -1.383410951421958,
+      "claim": -1.255651557018903,
+      "didnt": -1.2124924499398362,
+      "donald": -1.1950080184015088,
+      "democrats": -1.1034685007729712,
+      "using": -1.0918046478620742,
+      "sweet": 1.0070270749814547
+    }
+  },
+  {
+    "id": 2,
+    "timestamp": "2025-05-30T11:34:45.348714",
+    "text": "Once again, the \u201creligion of peace\u201d has proven to be neither peaceful nor tolerant \u2014 but don\u2019t tell that to political leaders across Europe. They wouldn\u2019t listen anyway.\r\n\r\nIn May of 2016, Aaron Woods, a homosexual, was the target of a truly \u201chomophobic\u201d attack, according to Brighton & Hove News.\r\n\r\n\u201cThe victim, a 26-year-old from Eastbourne, was approached by a man who used homophobic language before being punched in the face and suffering a broken jaw,\u201d Sussex police reported.\r\n\r\nAccording to ...",
+    "full_text_length": 1965,
+    "prediction": "Real",
+    "confidence": 0.7360186116336178,
+    "model_used": "fakenews_logistic_20250530_0120",
+    "sentiment": {
+      "polarity": 0.16061224489795917,
+      "subjectivity": 0.43255102040816334,
+      "label": "Positive"
+    },
+    "bias": {
+      "political_bias": 0.0,
+      "emotional_intensity": 0.0,
+      "tone": "Neutral"
+    },
+    "feature_importance": {
+      "things": 1.5075482482623808,
+      "hes": -1.3369057106927025,
+      "muslim": -1.250618107838548,
+      "man": -1.1305419594159196,
+      "men": -1.0664827984856302,
+      "muslims": -1.0241055378718886,
+      "sexual": 0.9141975680775785,
+      "news": -0.8830044158107795,
+      "attack": -0.8380473992234925,
+      "sussex": -0.8092838581308656
+    }
+  },
+  {
+    "id": 2,
+    "timestamp": "2025-05-30T11:34:45.400576",
+    "text": "A man wearing a security uniform entered a mall in St. Cloud, Minnesota on Saturday night. He began shouting Allahu Akbar as he stabbed 9 shoppers.\r\n\r\nThe attacker is reported to have asked at least one victim if they were Muslim before stabbing the person.\r\n\r\nThe attacker has now been identified as Somali immigrant, Dahir Adan, a Muslim.\r\n\r\nDahir Adan\r\nDahir Adan\r\nSt. Cloud Somali-American community members are the ones who identified Adan as the terrorist, reported SC Times.\r\n\r\nOn Sunday ISIS ...",
+    "full_text_length": 5228,
+    "prediction": "Fake",
+    "confidence": 0.5734726575262268,
+    "model_used": "fakenews_logistic_20250530_0120",
+    "sentiment": {
+      "polarity": 0.04845427963849016,
+      "subjectivity": 0.37413363439679226,
+      "label": "Neutral"
+    },
+    "bias": {
+      "political_bias": 0.0,
+      "emotional_intensity": 0.0,
+      "tone": "Neutral"
+    },
+    "feature_importance": {
+      "trump": -4.3553276585986795,
+      "reports": -1.8461099821648588,
+      "plans": -1.72692396875073,
+      "wants": -1.5702922783890505,
+      "hell": -1.4829671394678674,
+      "clinton": -1.256204028266159,
+      "muslim": -1.250618107838548,
+      "time": 1.246448350321189,
+      "open": 1.1576986202377675,
+      "man": -1.1305419594159196
+    }
+  },
+  {
+    "id": 2,
+    "timestamp": "2025-05-30T11:34:45.434525",
+    "text": "196 SHARES Facebook Twitter\n\nFor a little over a decade today\u2019s millennials have been described as being part of the \u201ceveryone gets a trophy generation.\u201d Effort and standards are a thing of the past, so much so that even the standard to be a victim is at historic lows.\n\nWould you believe that the man behind Saturday\u2019s NJ and NYC bombings once claimed to be a victim of \u201cIslamophobia?\u201d This was allegedly such a problem that the attacker Ahmad Khan Rahami and his father once sued the police in Eliz...",
+    "full_text_length": 2441,
+    "prediction": "Real",
+    "confidence": 0.720146848334712,
+    "model_used": "fakenews_logistic_20250530_0120",
+    "sentiment": {
+      "polarity": -0.03147708772708773,
+      "subjectivity": 0.3460853960853961,
+      "label": "Neutral"
+    },
+    "bias": {
+      "political_bias": 0.0,
+      "emotional_intensity": 0.0,
+      "tone": "Neutral"
+    },
+    "feature_importance": {
+      "reveals": 2.0285766169362973,
+      "did": -1.9982832950070282,
+      "shares": 1.9447493816681858,
+      "muslim": -1.250618107838548,
+      "man": -1.1305419594159196,
+      "night": 1.1286723352477852,
+      "times": 1.0900616919317396,
+      "episode": 1.071919109065683,
+      "brother": 1.0370218842484122,
+      "muslims": -1.0241055378718886
+    }
+  },
+  {
+    "id": 2,
+    "timestamp": "2025-05-30T11:34:45.484188",
+    "text": "For decades, employers have been holding America hostages with threats of taking their business elsewhere if we don\u2019t vote the way they want. Of course, what generally happens when we vote the way they want is that we get screwed anyway. Jobs get outsourced, wages remain stagnant and regulations stop being enforced.\n\nIt hasn\u2019t been since, well, the last presidential election, though, that we\u2019ve seen a CEO be quite as blatant about what his plans are if his side (Republican) loses. Four years ago...",
+    "full_text_length": 2966,
+    "prediction": "Real",
+    "confidence": 0.5272980507672805,
+    "model_used": "fakenews_logistic_20250530_0120",
+    "sentiment": {
+      "polarity": 0.12105734767025088,
+      "subjectivity": 0.4121415770609319,
+      "label": "Positive"
+    },
+    "bias": {
+      "political_bias": -1.0,
+      "emotional_intensity": 0.0,
+      "tone": "Biased"
+    },
+    "feature_importance": {
+      "trump": -4.3553276585986795,
+      "did": -1.9982832950070282,
+      "plans": -1.72692396875073,
+      "source": -1.7183687077543703,
+      "wants": -1.5702922783890505,
+      "going": -1.5156207576518121,
+      "donald trump": -1.4061702065038684,
+      "hes": -1.3369057106927025,
+      "clinton": -1.256204028266159,
+      "time": 1.246448350321189
+    }
+  },
+  {
+    "id": 2,
+    "timestamp": "2025-05-30T11:34:45.549776",
+    "text": "The FBI has issued a letter stating they are investigating new evidence in the case against Hillary Clinton\u2019s use of a private e-mail server. The new evidence was discovered during an investigation into Anthony Weiner, who was caught sexting with a 15-year old girl, and who is the estranged husband of Clinton\u2019s top aide Huma Abedin.\r\n\r\nApparently, Abedin and Weiner shared a laptop that potentially contained \u201ctens of thousands of e-mails\u201d from Abedin, including e-mails she forwarded to herself fr...",
+    "full_text_length": 11770,
+    "prediction": "Fake",
+    "confidence": 0.6563585315141378,
+    "model_used": "fakenews_logistic_20250530_0120",
+    "sentiment": {
+      "polarity": 0.024930790498017396,
+      "subjectivity": 0.4269106453770319,
+      "label": "Neutral"
+    },
+    "bias": {
+      "political_bias": 0.0,
+      "emotional_intensity": 0.005390835579514825,
+      "tone": "Neutral"
+    },
+    "feature_importance": {
+      "jennifer": -2.833057545388453,
+      "despite": -2.7223259649407687,
+      "caught": -2.1818975484538283,
+      "did": -1.9982832950070282,
+      "reports": -1.8461099821648588,
+      "obama": -1.6263975056422024,
+      "met": 1.6139049907513765,
+      "weekly": -1.5859787945960349,
+      "going": -1.5156207576518121,
+      "things": 1.5075482482623808
+    }
+  },
+  {
+    "id": 2,
+    "timestamp": "2025-05-30T11:34:45.583701",
+    "text": "Germany\u2019s chancellor Angela Merkel has been the biggest proponent of bringing in as many Syrian refugees as possible, adopting a literal open borders policy to bring in the migrants.\n\nThis quickly turned into a horror show, as crime was unleashed onto German cities, with thousands of sexual assaults and other violent crimes were reported over the last year.\n\nThe German people had apparently had enough of this rampant crime in Germany, because they just dealt a crushing blow to Merkel\u2019s conservat...",
+    "full_text_length": 1986,
+    "prediction": "Real",
+    "confidence": 0.7647187169105988,
+    "model_used": "fakenews_logistic_20250530_0120",
+    "sentiment": {
+      "polarity": 0.0594006568144499,
+      "subjectivity": 0.39667487684729075,
+      "label": "Neutral"
+    },
+    "bias": {
+      "political_bias": 1.0,
+      "emotional_intensity": 0.0,
+      "tone": "Biased"
+    },
+    "feature_importance": {
+      "crisis": -1.767401067361722,
+      "source": -1.7183687077543703,
+      "open": 1.1576986202377675,
+      "crime": 1.0577601878353875,
+      "sexual": 0.9141975680775785,
+      "people": -0.8286069703292162,
+      "like": 0.8227083589465254,
+      "control": -0.8198022343483705,
+      "state": -0.8178456028785138,
+      "thousands": -0.8152935248210926
+    }
+  },
+  {
+    "id": 2,
+    "timestamp": "2025-05-30T11:34:45.630511",
+    "text": "8.1k SHARES Facebook Twitter\n\nWhat a sign of the times it is when the terrorist who planted and detonated a number of explosives in New Jersey and New York City Saturday will be receiving better care than our own veterans who\u2019ve fought to protect ourselves from men like him. It sounds unreal, but that\u2019s the truth in Obama\u2019s America.\n\nWe\u2019re all aware of the scandal at the Veteran\u2019s Administration that broke back in 2014, which showed that the VA had inhumanely long waiting lists, and even went as...",
+    "full_text_length": 2054,
+    "prediction": "Real",
+    "confidence": 0.769883195868506,
+    "model_used": "fakenews_logistic_20250530_0120",
+    "sentiment": {
+      "polarity": 0.10944805194805195,
+      "subjectivity": 0.4852633477633478,
+      "label": "Positive"
+    },
+    "bias": {
+      "political_bias": 0.0,
+      "emotional_intensity": 0.0273972602739726,
+      "tone": "Neutral"
+    },
+    "feature_importance": {
+      "trump": -4.3553276585986795,
+      "caught": -2.1818975484538283,
+      "shares": 1.9447493816681858,
+      "best": 1.8287736222087374,
+      "watch": 1.5985883099068119,
+      "hell": -1.4829671394678674,
+      "time": 1.246448350321189,
+      "man": -1.1305419594159196,
+      "using": -1.0918046478620742,
+      "times": 1.0900616919317396
+    }
+  },
+  {
+    "id": 2,
+    "timestamp": "2025-05-30T11:34:45.684790",
+    "text": "5.2k SHARES Facebook Twitter\n\nJason Falconer, the NRA-certified firearms instructor and off-duty police officer, who shot the ISIS terrorist who stabbed eight people in St. Cloud, Minnesota, is someone that Hillary Clinton wants to put out of business. In fact, it\u2019s one of the primary things she intends to do first if she is elected president.\n\nThis is a brave man who saved countless lives by taking out a Jihadist. The same kind of Islamic refugee that Barack Obama and Hillary Clinton just love ...",
+    "full_text_length": 3112,
+    "prediction": "Fake",
+    "confidence": 0.5090862656484094,
+    "model_used": "fakenews_logistic_20250530_0120",
+    "sentiment": {
+      "polarity": 0.09493575207860921,
+      "subjectivity": 0.3963907785336357,
+      "label": "Neutral"
+    },
+    "bias": {
+      "political_bias": 0.0,
+      "emotional_intensity": 0.03937007874015748,
+      "tone": "Neutral"
+    },
+    "feature_importance": {
+      "shares": 1.9447493816681858,
+      "best": 1.8287736222087374,
+      "obama": -1.6263975056422024,
+      "wants": -1.5702922783890505,
+      "things": 1.5075482482623808,
+      "clinton": -1.256204028266159,
+      "didnt": -1.2124924499398362,
+      "gun": -1.1740697937906872,
+      "makes": 1.1462263021814976,
+      "firing": -1.1346085283176977
+    }
+  },
+  {
+    "id": 2,
+    "timestamp": "2025-05-30T11:34:45.735508",
+    "text": "978 SHARES Facebook Twitter\n\nI don\u2019t recall in any Presidential election where the candidates health was headline news almost every day. Not only is Hillary Clinton\u2019s health constantly making headline, but it\u2019s also commonly a part of Presidential polls. The polls continue to show a Hillary decline as Hillary continues to show a health decline.\n\nHere are the top takeaways from the poll:\n\n\u2022More than 40% of registered voters now believe that Clinton is in either \u201cbelow average\u201d or \u201cvery poor\u201d heal...",
+    "full_text_length": 3759,
+    "prediction": "Real",
+    "confidence": 0.6485388443237986,
+    "model_used": "fakenews_logistic_20250530_0120",
+    "sentiment": {
+      "polarity": -0.06972475380370118,
+      "subjectivity": 0.4716830586567428,
+      "label": "Neutral"
+    },
+    "bias": {
+      "political_bias": 0.0,
+      "emotional_intensity": 0.015479876160990714,
+      "tone": "Neutral"
+    },
+    "feature_importance": {
+      "trump": -4.3553276585986795,
+      "caught": -2.1818975484538283,
+      "shares": 1.9447493816681858,
+      "list": -1.4698733885259232,
+      "page": -1.3171569536113297,
+      "clinton": -1.256204028266159,
+      "actually": 1.2187857199856225,
+      "late": 1.0585466021940846,
+      "getting": -0.9856324442100978,
+      "looks": 0.9145196782972542
+    }
+  },
+  {
+    "id": 2,
+    "timestamp": "2025-05-30T11:34:45.782411",
+    "text": "Website is Down For Maintenance",
+    "full_text_length": 31,
+    "prediction": "Real",
+    "confidence": 0.7056309494583352,
+    "model_used": "fakenews_logistic_20250530_0120",
+    "sentiment": {
+      "polarity": -0.15555555555555556,
+      "subjectivity": 0.2888888888888889,
+      "label": "Negative"
+    },
+    "bias": {
+      "political_bias": 0.0,
+      "emotional_intensity": 0.0,
+      "tone": "Neutral"
+    },
+    "feature_importance": {
+      "website": -0.7884978119088765
+    }
+  },
+  {
+    "id": 2,
+    "timestamp": "2025-05-30T11:34:45.831996",
+    "text": "Dolly Kyle has written a scathing \u201ctell all\u201d book exposing the sickening hidden truth about Bill and Hillary Clinton. Hillary\u2019s war on just about anyone who is beneath her, or who would dare to get in the way of her ascent to the White House. When will the media do their job and report the truth about this horrible opportunist?\n\nDolly Kyle \u2013 who was just 11 when she first crossed paths with Bill, dated him through high school and began sleeping with him once they graduated \u2013 published the claims...",
+    "full_text_length": 1685,
+    "prediction": "Real",
+    "confidence": 0.6384623295814597,
+    "model_used": "fakenews_logistic_20250530_0120",
+    "sentiment": {
+      "polarity": -0.1768807118807119,
+      "subjectivity": 0.4299831649831649,
+      "label": "Negative"
+    },
+    "bias": {
+      "political_bias": 0.0,
+      "emotional_intensity": 0.03496503496503497,
+      "tone": "Neutral"
+    },
+    "feature_importance": {
+      "report": -4.531116837929226,
+      "having": -1.5998329960471116,
+      "going": -1.5156207576518121,
+      "clinton": -1.256204028266159,
+      "time": 1.246448350321189,
+      "didnt": -1.2124924499398362,
+      "war": -1.0351958123953566,
+      "getting": -0.9856324442100978,
+      "frustrated": -0.9057899925117591,
+      "fan": 0.8890314796113922
+    }
+  },
+  {
+    "id": 2,
+    "timestamp": "2025-05-30T11:34:45.880170",
+    "text": "4.4k SHARES Facebook Twitter\n\nI\u2026can\u2019t\u2026even.\n\nThis is absolute madness and as hard as I\u2019m trying to process this nonsense in my head, I just can\u2019t wrap my brain around it. I have no doubt that things are about to get really messy.\n\nI cannot say that I don\u2019t understand the Judge after reading the report. There are some black Americans that have a legit fear of Police Officers and their first instinct is to run. It\u2019s just\u2026 is this really the only way to remedy that? There are two sides to this coin...",
+    "full_text_length": 2117,
+    "prediction": "Real",
+    "confidence": 0.6976320342375858,
+    "model_used": "fakenews_logistic_20250530_0120",
+    "sentiment": {
+      "polarity": 0.013769026672252478,
+      "subjectivity": 0.6267665130568357,
+      "label": "Neutral"
+    },
+    "bias": {
+      "political_bias": 0.0,
+      "emotional_intensity": 0.0,
+      "tone": "Neutral"
+    },
+    "feature_importance": {
+      "report": -4.531116837929226,
+      "shares": 1.9447493816681858,
+      "going": -1.5156207576518121,
+      "things": 1.5075482482623808,
+      "evidence": -1.383410951421958,
+      "time": 1.246448350321189,
+      "makes": 1.1462263021814976,
+      "trying": -1.1054912169799092,
+      "crime": 1.0577601878353875,
+      "citizens": -0.9197185999152149
+    }
+  },
+  {
+    "id": 2,
+    "timestamp": "2025-05-30T11:34:45.919720",
+    "text": "0 SHARES Facebook Twitter\n\nBernard Sansaricq, former president of the Haitian Senate, issued a blistering statement condemning the Clinton Foundation, which has been posted at Donald Trump\u2019s campaign website.\n\nSansaricq\u2019s statement says:\n\nSadly, when an earthquake rocked the nation of Haiti in 2010, corruption moved in faster than the help so desperately needed. Today, the people of Haiti are still suffering despite the billions of dollars that have flowed into the Clinton Foundation.\n\nThe Clint...",
+    "full_text_length": 1444,
+    "prediction": "Fake",
+    "confidence": 0.6346490857419684,
+    "model_used": "fakenews_logistic_20250530_0120",
+    "sentiment": {
+      "polarity": -0.16899350649350653,
+      "subjectivity": 0.6499007936507937,
+      "label": "Negative"
+    },
+    "bias": {
+      "political_bias": 0.0,
+      "emotional_intensity": 0.04405286343612335,
+      "tone": "Neutral"
+    },
+    "feature_importance": {
+      "trump": -4.3553276585986795,
+      "despite": -2.7223259649407687,
+      "shares": 1.9447493816681858,
+      "desperate": -1.8499705371732797,
+      "trumps": -1.7500245497454074,
+      "clinton": -1.256204028266159,
+      "time": 1.246448350321189,
+      "donald": -1.1950080184015088,
+      "trying": -1.1054912169799092,
+      "says": 1.0387928293073814
+    }
+  },
+  {
+    "id": 2,
+    "timestamp": "2025-05-30T11:34:45.976090",
+    "text": "6.6k SHARES Facebook Twitter\n\nGerman Chancellor Angela Merkel finally admitted to the press that if she could go back in time to change her stance on her open migrant policy she would. She is also admitting she is willing to consider a new policy direction. Merkel told the media at a press conference,\n\n\u201cIf I knew what change in refugee policy the people in Germany want, I would be prepared to consider it.\u201d\n\nThese comments came shortly after the defeat of the Christian Democratic Union in Berlin\u2019...",
+    "full_text_length": 2922,
+    "prediction": "Real",
+    "confidence": 0.7625020989998198,
+    "model_used": "fakenews_logistic_20250530_0120",
+    "sentiment": {
+      "polarity": 0.04665319865319865,
+      "subjectivity": 0.3881808561808562,
+      "label": "Neutral"
+    },
+    "bias": {
+      "political_bias": -1.0,
+      "emotional_intensity": 0.0,
+      "tone": "Biased"
+    },
+    "feature_importance": {
+      "did": -1.9982832950070282,
+      "shares": 1.9447493816681858,
+      "crisis": -1.767401067361722,
+      "muslim": -1.250618107838548,
+      "time": 1.246448350321189,
+      "actually": 1.2187857199856225,
+      "forced": -1.1658872597585752,
+      "open": 1.1576986202377675,
+      "makes": 1.1462263021814976,
+      "crime": 1.0577601878353875
+    }
+  },
+  {
+    "id": 2,
+    "timestamp": "2025-05-30T11:34:46.021127",
+    "text": "1.6k SHARES Facebook Twitter\n\nMuslim Somali asylum seeker, Abdullah, in Sundsvall, Sweden is a bastard! Abdullah is well-known by police for his multiple convictions of violent crimes, assaults and molestations. This aggressive piece of garbage has been collecting welfare benefits and committing crimes since he came to Sweden 5 years ago. His most recent crime wasn\u2019t to any stranger this time it was to his wife.\n\nHe had gone out to party with friends one night after a long hard day of doing noth...",
+    "full_text_length": 2497,
+    "prediction": "Real",
+    "confidence": 0.7853377984289593,
+    "model_used": "fakenews_logistic_20250530_0120",
+    "sentiment": {
+      "polarity": 0.085078197945845,
+      "subjectivity": 0.5277409681821448,
+      "label": "Neutral"
+    },
+    "bias": {
+      "political_bias": 0.0,
+      "emotional_intensity": 0.0,
+      "tone": "Neutral"
+    },
+    "feature_importance": {
+      "pregnant": -2.0621844740579327,
+      "shares": 1.9447493816681858,
+      "going": -1.5156207576518121,
+      "muslim": -1.250618107838548,
+      "time": 1.246448350321189,
+      "forced": -1.1658872597585752,
+      "favorite": 1.1498028043432704,
+      "night": 1.1286723352477852,
+      "times": 1.0900616919317396,
+      "crime": 1.0577601878353875
+    }
+  },
+  {
+    "id": 2,
+    "timestamp": "2025-05-30T11:34:46.078657",
+    "text": "Pennsylvania Republicans are trying to jam a bill through the statehouse that would go into effect immediately to allow voter intimidation across the state on Election Day in support of Donald Trump.\n\nFirst proposed in June, House Bill 29 would give outsiders the ability to watch the polls in districts in which they do not reside and would give them the power to challenge voters, which would disrupt the voting process and cause delays that could prevent people from exercising their right to vote...",
+    "full_text_length": 2801,
+    "prediction": "Fake",
+    "confidence": 0.6641920776208665,
+    "model_used": "fakenews_logistic_20250530_0120",
+    "sentiment": {
+      "polarity": 0.11940359477124185,
+      "subjectivity": 0.5453489729225024,
+      "label": "Positive"
+    },
+    "bias": {
+      "political_bias": 1.0,
+      "emotional_intensity": 0.0,
+      "tone": "Biased"
+    },
+    "feature_importance": {
+      "trump": -4.3553276585986795,
+      "trumps": -1.7500245497454074,
+      "watch": 1.5985883099068119,
+      "wants": -1.5702922783890505,
+      "going": -1.5156207576518121,
+      "donald trump": -1.4061702065038684,
+      "claim": -1.255651557018903,
+      "muslim": -1.250618107838548,
+      "actually": 1.2187857199856225,
+      "donald": -1.1950080184015088
+    }
+  },
+  {
+    "id": 2,
+    "timestamp": "2025-05-30T11:34:46.117974",
+    "text": "131.1k SHARES Facebook Twitter\n\nWell tell us how you really feel.\n\nNormally when a Muslim bashes the USA, you wouldn\u2019t think that they\u2019re an American themselves. Such wasn\u2019t the case when it came to American Olympian fencer Ibtihaj Muhammad,who became the first American to compete in an Olympic games wearing a Hijab.\n\nAs it turns out, she has some nasty things to say about the country she\u2019s representing.\n\nAccording to her, as quoted by The Federalist Papers:\n\n[I feel unsafe] all the time. I had ...",
+    "full_text_length": 1671,
+    "prediction": "Real",
+    "confidence": 0.7068113849006725,
+    "model_used": "fakenews_logistic_20250530_0120",
+    "sentiment": {
+      "polarity": -0.12508116883116888,
+      "subjectivity": 0.4964772727272727,
+      "label": "Negative"
+    },
+    "bias": {
+      "political_bias": 0.0,
+      "emotional_intensity": 0.03215434083601286,
+      "tone": "Neutral"
+    },
+    "feature_importance": {
+      "report": -4.531116837929226,
+      "caught": -2.1818975484538283,
+      "shares": 1.9447493816681858,
+      "going": -1.5156207576518121,
+      "things": 1.5075482482623808,
+      "muslim": -1.250618107838548,
+      "time": 1.246448350321189,
+      "moment": 1.108520926078193,
+      "th": 1.0665121446225114,
+      "muslims": -1.0241055378718886
+    }
+  },
+  {
+    "id": 2,
+    "timestamp": "2025-05-30T11:34:46.165903",
+    "text": "4.3k SHARES Facebook Twitter\n\nCharlotte riots have gone mad. The idiots there turned a \u201cpeaceful protest\u201d into a firey loot-filled war zone all because a black cop shot a black thug with a gun.\n\nGo figure. They can\u2019t even play the race card on this one, but they\u2019ll still wreck a town for no reason.\n\nIt makes sense now that the thugs in Charlotte would do an unthinkably and inhumane act such as gather around an injured cop and throw shady laughter in his direction. What did that particular cop do...",
+    "full_text_length": 3239,
+    "prediction": "Real",
+    "confidence": 0.5109402090035442,
+    "model_used": "fakenews_logistic_20250530_0120",
+    "sentiment": {
+      "polarity": -0.12052594092067785,
+      "subjectivity": 0.46425063727695304,
+      "label": "Negative"
+    },
+    "bias": {
+      "political_bias": 0.0,
+      "emotional_intensity": 0.0,
+      "tone": "Neutral"
+    },
+    "feature_importance": {
+      "did": -1.9982832950070282,
+      "shares": 1.9447493816681858,
+      "having": -1.5998329960471116,
+      "hell": -1.4829671394678674,
+      "claim": -1.255651557018903,
+      "time": 1.246448350321189,
+      "didnt": -1.2124924499398362,
+      "gun": -1.1740697937906872,
+      "makes": 1.1462263021814976,
+      "man": -1.1305419594159196
+    }
+  },
+  {
+    "id": 2,
+    "timestamp": "2025-05-30T11:34:46.206805",
+    "text": "5.2k SHARES Facebook Twitter\n\nPresident Obama has always been a far left borderline socialist progressive liberal. Their is no denying that. Why else would he push such ridiculous polices such as the Affordable Care Act, gun control, and an ever increasing acceptance number of refugees. Well apparently he has not changed his tune. Because President Obama appeared at his final United Nations General Assembly meeting to give his final speech as a sitting President. While there he said some absolut...",
+    "full_text_length": 1967,
+    "prediction": "Real",
+    "confidence": 0.8004924381490405,
+    "model_used": "fakenews_logistic_20250530_0120",
+    "sentiment": {
+      "polarity": 0.09037414965986396,
+      "subjectivity": 0.5513265306122449,
+      "label": "Neutral"
+    },
+    "bias": {
+      "political_bias": -0.3333333333333333,
+      "emotional_intensity": 0.0,
+      "tone": "Biased"
+    },
+    "feature_importance": {
+      "shares": 1.9447493816681858,
+      "obama": -1.6263975056422024,
+      "watch": 1.5985883099068119,
+      "things": 1.5075482482623808,
+      "hes": -1.3369057106927025,
+      "style": 1.3343746621298127,
+      "gun": -1.1740697937906872,
+      "president": -0.8959322014330097,
+      "like": 0.8227083589465254,
+      "control": -0.8198022343483705
+    }
+  },
+  {
+    "id": 2,
+    "timestamp": "2025-05-30T11:34:46.253118",
+    "text": "20.1k SHARES Facebook Twitter\n\nWhat do Tim Tebow and Colin Kaepernick have in common? Neither is a starting quarterback in the NFL.\n\nThe other difference is that Tim Tebow is a man of high class and well respected. The other is an idiot.\n\nTim Tebow was very short on words when a reporter asked him about Colin Kaepernick\u2019s protest towards the National Anthem and not honoring a country who oppresses black people.\n\nTebow is known for his religious antics, \u201cTebowing\u201d celebration, and not being able ...",
+    "full_text_length": 2194,
+    "prediction": "Real",
+    "confidence": 0.6940051455573972,
+    "model_used": "fakenews_logistic_20250530_0120",
+    "sentiment": {
+      "polarity": 0.06089066339066338,
+      "subjectivity": 0.4712554112554112,
+      "label": "Neutral"
+    },
+    "bias": {
+      "political_bias": 0.0,
+      "emotional_intensity": 0.0,
+      "tone": "Neutral"
+    },
+    "feature_importance": {
+      "did": -1.9982832950070282,
+      "shares": 1.9447493816681858,
+      "obama": -1.6263975056422024,
+      "wants": -1.5702922783890505,
+      "things": 1.5075482482623808,
+      "hes": -1.3369057106927025,
+      "time": 1.246448350321189,
+      "tour": 1.1996474147666436,
+      "career": -1.1849672513465597,
+      "man": -1.1305419594159196
+    }
+  },
+  {
+    "id": 2,
+    "timestamp": "2025-05-30T11:34:46.304025",
+    "text": "2.8k SHARES Facebook Twitter\n\nA border wall isn\u2019t just to keep out illegal immigrants \u2013 it acts as a national security measure. China didn\u2019t build their great wall to keep out immigrants, they built it to keep out foreign invaders.\n\nWe need a border for that reason too, in addition to solving the problem of illegal immigration. The entire nation of Mexico is essentially run by drug cartels, and they\u2019ve racked up a death toll that would make ISIS envious. Additionally, if ISIS is going to enter A...",
+    "full_text_length": 2239,
+    "prediction": "Real",
+    "confidence": 0.6732060221738836,
+    "model_used": "fakenews_logistic_20250530_0120",
+    "sentiment": {
+      "polarity": 0.008740259740259741,
+      "subjectivity": 0.3776103896103896,
+      "label": "Neutral"
+    },
+    "bias": {
+      "political_bias": 1.0,
+      "emotional_intensity": 0.0,
+      "tone": "Biased"
+    },
+    "feature_importance": {
+      "report": -4.531116837929226,
+      "caught": -2.1818975484538283,
+      "did": -1.9982832950070282,
+      "shares": 1.9447493816681858,
+      "reports": -1.8461099821648588,
+      "best": 1.8287736222087374,
+      "obama": -1.6263975056422024,
+      "going": -1.5156207576518121,
+      "illegal": -1.2618853469087574,
+      "time": 1.246448350321189
+    }
+  },
+  {
+    "id": 2,
+    "timestamp": "2025-05-30T11:34:46.350741",
+    "text": "The Haitians in the audience have some newsworthy things to say about their experiences. Too bad The Media (D) didn\u2019t stick around to hear it.\n\nThese people LOVED Trump. They cheered for him, he sat quietly as they told their stories.\n\nIt was an absolute love-in.\n\nThat would have chafed the media badly enough.\n\nBut the audience had something ELSE in common. Complaints against the Clintons, who \u2014 to hear these people tell it \u2014 once they got their money, were never seen again.\n\nIt turns out, they\u2019...",
+    "full_text_length": 1288,
+    "prediction": "Real",
+    "confidence": 0.5050959969886556,
+    "model_used": "fakenews_logistic_20250530_0120",
+    "sentiment": {
+      "polarity": -0.03956043956043956,
+      "subjectivity": 0.4555860805860806,
+      "label": "Neutral"
+    },
+    "bias": {
+      "political_bias": 0.0,
+      "emotional_intensity": 0.0,
+      "tone": "Neutral"
+    },
+    "feature_importance": {
+      "trump": -4.3553276585986795,
+      "things": 1.5075482482623808,
+      "evidence": -1.383410951421958,
+      "claim": -1.255651557018903,
+      "didnt": -1.2124924499398362,
+      "got": 1.149771933662576,
+      "stories": -0.9221115998985717,
+      "bad": 0.9038142588160947,
+      "room": -0.8834562780678242,
+      "news": -0.8830044158107795
+    }
+  },
+  {
+    "id": 2,
+    "timestamp": "2025-05-30T11:34:46.400442",
+    "text": "When Donald Trump said that he wanted to ban Muslim immigration until we know what\u2019s going on, every single Democrat and liberal yahoo yelled until their voice was hoarse that it was racist.\n\nOh how wrong they were, and still are.\n\nFirst off, racism is the belief that one race is inherently better than another simply by virtue of the color of their skin. Islam isn\u2019t a race, it is a religion that lends itself very well to radicalization. This is the same religion that has believers blow themselve...",
+    "full_text_length": 2813,
+    "prediction": "Fake",
+    "confidence": 0.6339814912483765,
+    "model_used": "fakenews_logistic_20250530_0120",
+    "sentiment": {
+      "polarity": 0.06537827252112967,
+      "subjectivity": 0.3817692228406515,
+      "label": "Neutral"
+    },
+    "bias": {
+      "political_bias": -1.0,
+      "emotional_intensity": 0.0,
+      "tone": "Biased"
+    },
+    "feature_importance": {
+      "trump": -4.3553276585986795,
+      "source": -1.7183687077543703,
+      "wants": -1.5702922783890505,
+      "going": -1.5156207576518121,
+      "ban": -1.4104250580583977,
+      "afraid": -1.409642452596035,
+      "donald trump": -1.4061702065038684,
+      "muslim": -1.250618107838548,
+      "donald": -1.1950080184015088,
+      "got": 1.149771933662576
+    }
+  },
+  {
+    "id": 2,
+    "timestamp": "2025-05-30T11:34:46.451472",
+    "text": "61.3k SHARES Facebook Twitter\n\nUpdate: Buzzfeed has deemed that our description of the crime and the victims is false. We have utterly debunked Buzzfeed\u2019s claims. You can view our followup article here.\n\n~~~\n\nYou can\u2019t make this stuff up. People used to tell crazy stories, but have no way to prove if the story was true or not.\n\nThen along came video.\n\nThis is by far one of the craziest things I\u2019ve ever seen. These guys are out in the middle of the street and it looks like there was supposed to b...",
+    "full_text_length": 2028,
+    "prediction": "Real",
+    "confidence": 0.8534526577713499,
+    "model_used": "fakenews_logistic_20250530_0120",
+    "sentiment": {
+      "polarity": 0.1209013605442177,
+      "subjectivity": 0.6446712018140591,
+      "label": "Positive"
+    },
+    "bias": {
+      "political_bias": 0.0,
+      "emotional_intensity": 0.0,
+      "tone": "Neutral"
+    },
+    "feature_importance": {
+      "shares": 1.9447493816681858,
+      "watch": 1.5985883099068119,
+      "things": 1.5075482482623808,
+      "debunked": -1.2971922734424866,
+      "time": 1.246448350321189,
+      "false": -1.1762195910310154,
+      "got": 1.149771933662576,
+      "men": -1.0664827984856302,
+      "crime": 1.0577601878353875,
+      "getting": -0.9856324442100978
+    }
+  },
+  {
+    "id": 2,
+    "timestamp": "2025-05-30T11:34:46.500188",
+    "text": "We need a border wall. It is not just a matter of preventing illegal immigration, but securing an essential access point into America.\r\n\r\nLaw enforcement is on high alert after a routine traffic stop revealed troubling intentions. Police in Luna County, New Mexico, pulled over an undocumented Middle Eastern woman with the plans for a nearby gas pipeline and surrounding area.\r\n(via Mad News World)\r\n\r\nPolice were unable to determine why the woman, described as an \u201cIslamic refugee,\u201d was in possessi...",
+    "full_text_length": 2464,
+    "prediction": "Real",
+    "confidence": 0.5904434149774636,
+    "model_used": "fakenews_logistic_20250530_0120",
+    "sentiment": {
+      "polarity": 0.012901515151515145,
+      "subjectivity": 0.46726893939393943,
+      "label": "Neutral"
+    },
+    "bias": {
+      "political_bias": 0.0,
+      "emotional_intensity": 0.0,
+      "tone": "Neutral"
+    },
+    "feature_importance": {
+      "report": -4.531116837929226,
+      "did": -1.9982832950070282,
+      "trumps": -1.7500245497454074,
+      "plans": -1.72692396875073,
+      "watch": 1.5985883099068119,
+      "illegal": -1.2618853469087574,
+      "muslim": -1.250618107838548,
+      "president": -0.8959322014330097,
+      "news": -0.8830044158107795,
+      "attack": -0.8380473992234925
+    }
+  },
+  {
+    "id": 2,
+    "timestamp": "2025-05-30T11:34:46.550334",
+    "text": "We\u2019re shocked \u2014 SHOCKED \u2014 to learn that CNN\u2019s bias is so blatant in just about everything they do, not simply in reporting the news.\r\n\r\nFirst came Lester Holt\u2019s unbelievably one-sided moderation of the debate in which he routinely press and even attacked Donald Trump\u2019s record and answers while leaving Hillary untouched with no mention of any of the most obvious scandals.\r\n\r\nNow CNN has upped the ante on their own bias with a poll that isn\u2019t worth paper it was printed on.\r\n\r\nAccording to their po...",
+    "full_text_length": 878,
+    "prediction": "Real",
+    "confidence": 0.6456013049809732,
+    "model_used": "fakenews_logistic_20250530_0120",
+    "sentiment": {
+      "polarity": 4.270088556250602e-18,
+      "subjectivity": 0.5992673992673994,
+      "label": "Neutral"
+    },
+    "bias": {
+      "political_bias": 0.0,
+      "emotional_intensity": 0.0,
+      "tone": "Neutral"
+    },
+    "feature_importance": {
+      "trumps": -1.7500245497454074,
+      "didnt": -1.2124924499398362,
+      "donald": -1.1950080184015088,
+      "democrats": -1.1034685007729712,
+      "leaving": -0.9270434140334138,
+      "news": -0.8830044158107795,
+      "cnn": -0.7160251478722037,
+      "hillary": -0.6748488283393733,
+      "answers": 0.5967307455226585,
+      "just": -0.5889021984237868
+    }
+  },
+  {
+    "id": 2,
+    "timestamp": "2025-05-30T11:34:46.607206",
+    "text": "2.1k SHARES Facebook Twitter\n\nSeahawks Quarterback Russell Wilson has never shied away from sharing his love for God and his fellow man. In fact, it is one of his life\u2019s purposes to serve and help his \u2018brothers and sisters\u2019 in changing lives to be better. Helping others to get on a path that leads to true joy is what he hopes becomes his legacy in life.\n\nOn the field he as a Quarterback, Wilson is all about winning. Off the field, he sets his focus on helping others to find the joy and peace tha...",
+    "full_text_length": 2858,
+    "prediction": "Real",
+    "confidence": 0.7566251155162808,
+    "model_used": "fakenews_logistic_20250530_0120",
+    "sentiment": {
+      "polarity": 0.289065934065934,
+      "subjectivity": 0.5674816849816849,
+      "label": "Positive"
+    },
+    "bias": {
+      "political_bias": 0.0,
+      "emotional_intensity": 0.0,
+      "tone": "Neutral"
+    },
+    "feature_importance": {
+      "did": -1.9982832950070282,
+      "shares": 1.9447493816681858,
+      "having": -1.5998329960471116,
+      "things": 1.5075482482623808,
+      "time": 1.246448350321189,
+      "got": 1.149771933662576,
+      "man": -1.1305419594159196,
+      "times": 1.0900616919317396,
+      "men": -1.0664827984856302,
+      "friends": -0.9827840558306814
+    }
+  },
+  {
+    "id": 2,
+    "timestamp": "2025-05-30T11:34:46.672474",
+    "text": "Someone had to say it. Okay, liberals have been saying it for years. Fox News (and increasingly, the other news channels) have been promoting fear for so long that they have become the terrorists. Pope Francis agrees. Channeling Franklin Delano Roosevelt\u2019s infamous line, \u201cwe have nothing to fear but fear itself,\u201d the Pope chastised fear-based media.\n\nJournalism based on gossip or rumors is a form of \u201cterrorism\u201d and media that stereotype entire populations or foment fear of migrants are acting de...",
+    "full_text_length": 2196,
+    "prediction": "Fake",
+    "confidence": 0.6657815891856906,
+    "model_used": "fakenews_logistic_20250530_0120",
+    "sentiment": {
+      "polarity": 0.035276112776112784,
+      "subjectivity": 0.4858410108410109,
+      "label": "Neutral"
+    },
+    "bias": {
+      "political_bias": -1.0,
+      "emotional_intensity": 0.0,
+      "tone": "Biased"
+    },
+    "feature_importance": {
+      "trump": -4.3553276585986795,
+      "rumors": -2.161864418256957,
+      "source": -1.7183687077543703,
+      "afraid": -1.409642452596035,
+      "donald trump": -1.4061702065038684,
+      "time": 1.246448350321189,
+      "donald": -1.1950080184015088,
+      "gossip": -1.1690682889255255,
+      "hoping": -1.1626106945431542,
+      "trying": -1.1054912169799092
+    }
+  },
+  {
+    "id": 2,
+    "timestamp": "2025-05-30T11:34:46.727913",
+    "text": "775 SHARES Facebook Twitter\n\nCNN news has claimed through polling that Hillary Clinton was the undefinable winner of the first general election debate. But others indicate otherwise. Snap polls show Donald Trump as the debate night winner. Talking points included the Birther movement allegations, the email controversy, and Trump\u2019s tax returns as well as other things.\n\nLook at some of the snap polls below. They include TIME Magazine, the Drudge Report, CBS New York, Fox 5, and News 2 Nashville am...",
+    "full_text_length": 1942,
+    "prediction": "Fake",
+    "confidence": 0.5771048629506583,
+    "model_used": "fakenews_logistic_20250530_0120",
+    "sentiment": {
+      "polarity": 0.10825804630152458,
+      "subjectivity": 0.41318934688499903,
+      "label": "Positive"
+    },
+    "bias": {
+      "political_bias": 0.0,
+      "emotional_intensity": 0.0,
+      "tone": "Neutral"
+    },
+    "feature_importance": {
+      "report": -4.531116837929226,
+      "trump": -4.3553276585986795,
+      "despite": -2.7223259649407687,
+      "shares": 1.9447493816681858,
+      "trumps": -1.7500245497454074,
+      "going": -1.5156207576518121,
+      "things": 1.5075482482623808,
+      "donald trump": -1.4061702065038684,
+      "clinton": -1.256204028266159,
+      "time": 1.246448350321189
+    }
+  },
+  {
+    "id": 2,
+    "timestamp": "2025-05-30T11:34:46.769568",
+    "text": "Oh Hillary, when will you learn? You never count your chickens before they\u2019re hatched. Also, don\u2019t say you\u2019ve won when you clearly didn\u2019t.\n\nThe polls are in from last night\u2019s debate. At first glance they do not look good for Donald Trump. According to focus groups from Fox News and CNN, both had Hillary winning last night\u2019s debate.\n\nBut were those true tests of the voting pool on the whole?\n\nAccording to focus groups at both Fox News and CNN, Democratic presidential nominee Hillary Clinton handi...",
+    "full_text_length": 1731,
+    "prediction": "Real",
+    "confidence": 0.5481368752405316,
+    "model_used": "fakenews_logistic_20250530_0120",
+    "sentiment": {
+      "polarity": 0.21962962962962967,
+      "subjectivity": 0.4325925925925926,
+      "label": "Positive"
+    },
+    "bias": {
+      "political_bias": 0.0,
+      "emotional_intensity": 0.0,
+      "tone": "Neutral"
+    },
+    "feature_importance": {
+      "trump": -4.3553276585986795,
+      "source": -1.7183687077543703,
+      "things": 1.5075482482623808,
+      "donald trump": -1.4061702065038684,
+      "clinton": -1.256204028266159,
+      "didnt": -1.2124924499398362,
+      "donald": -1.1950080184015088,
+      "trying": -1.1054912169799092,
+      "florida": -1.0640211131797763,
+      "tweet": -0.9824835218625464
+    }
+  },
+  {
+    "id": 2,
+    "timestamp": "2025-05-30T11:34:46.819229",
+    "text": "7k SHARES SHARE THIS STORY\n\nLast night, the city of Charlotte was rocked with protests for a second straight night as massive crowds protested the police killing of Kenneth L. Scott. During the protests, a civilian was shot in the head and critically injured. The police quickly told the media that the shooter was also a civilian, but a number of eyewitness reports seem to indicate that the police are lying \u2013 and that the shot came from law enforcement.\n\nOne key eye witness report emerged from Ch...",
+    "full_text_length": 5711,
+    "prediction": "Real",
+    "confidence": 0.6064087983748108,
+    "model_used": "fakenews_logistic_20250530_0120",
+    "sentiment": {
+      "polarity": 0.011411517775154137,
+      "subjectivity": 0.45009379509379516,
+      "label": "Neutral"
+    },
+    "bias": {
+      "political_bias": 0.0,
+      "emotional_intensity": 0.0,
+      "tone": "Neutral"
+    },
+    "feature_importance": {
+      "report": -4.531116837929226,
+      "trump": -4.3553276585986795,
+      "did": -1.9982832950070282,
+      "shares": 1.9447493816681858,
+      "reports": -1.8461099821648588,
+      "met": 1.6139049907513765,
+      "donald trump": -1.4061702065038684,
+      "claim": -1.255651557018903,
+      "time": 1.246448350321189,
+      "didnt": -1.2124924499398362
+    }
+  },
+  {
+    "id": 2,
+    "timestamp": "2025-05-30T11:34:46.873125",
+    "text": "46.8k SHARES SHARE THIS STORY\n\nRepublican nominee Donald Trump has been treading treasonous territory for months now, raising eyebrows around the nation for a foreign policy that openly supports the ambitions of Vladimir Putin, the dictator of the Russian Federation. He\u2019s surrounded himself with men with close ties to the Kremlin and the oligarchs that pull the strings behind the scenes; he\u2019s being openly supported by Russian state-controlled media and by Russian intelligence services, who have ...",
+    "full_text_length": 4150,
+    "prediction": "Fake",
+    "confidence": 0.6612208740408447,
+    "model_used": "fakenews_logistic_20250530_0120",
+    "sentiment": {
+      "polarity": 0.12008980785296573,
+      "subjectivity": 0.39009189640768593,
+      "label": "Positive"
+    },
+    "bias": {
+      "political_bias": -1.0,
+      "emotional_intensity": 0.0,
+      "tone": "Biased"
+    },
+    "feature_importance": {
+      "report": -4.531116837929226,
+      "trump": -4.3553276585986795,
+      "shares": 1.9447493816681858,
+      "watch": 1.5985883099068119,
+      "donald trump": -1.4061702065038684,
+      "hes": -1.3369057106927025,
+      "information": -1.3210650367871826,
+      "time": 1.246448350321189,
+      "donald": -1.1950080184015088,
+      "makes": 1.1462263021814976
+    }
+  },
+  {
+    "id": 2,
+    "timestamp": "2025-05-30T11:34:46.914718",
+    "text": "The man arrested Monday in connection with the New York City bombing sued his local police force over anti-Muslim discrimination claims.\n\nAhmad Khan Rahami filed the lawsuit against cops in Elizabeth, N.J., where he was residing before he planted bombs in the Chelsea neighborhood of Manhattan, at a train station in Elizabeth, and on the route of a 5k Marine charity run on the Jersey shore. He claimed police were persecuting him for being a Muslim and subjecting him and his family to \u201cselective e...",
+    "full_text_length": 1128,
+    "prediction": "Real",
+    "confidence": 0.7145297858395542,
+    "model_used": "fakenews_logistic_20250530_0120",
+    "sentiment": {
+      "polarity": -0.012075298438934805,
+      "subjectivity": 0.3528466483011937,
+      "label": "Neutral"
+    },
+    "bias": {
+      "political_bias": 0.0,
+      "emotional_intensity": 0.0,
+      "tone": "Neutral"
+    },
+    "feature_importance": {
+      "reports": -1.8461099821648588,
+      "muslim": -1.250618107838548,
+      "man": -1.1305419594159196,
+      "night": 1.1286723352477852,
+      "brother": 1.0370218842484122,
+      "muslims": -1.0241055378718886,
+      "claimed": -0.9449333751538728,
+      "charity": 0.9147032031968627,
+      "restaurant": -0.877258074845514,
+      "suit": 0.7475209269000185
+    }
+  },
+  {
+    "id": 2,
+    "timestamp": "2025-05-30T11:34:46.954992",
+    "text": "71k SHARES SHARE THIS STORY\n\nNew Jersey\u2019s despised Republican Governor Chris Christie is in scalding hot water as the top state legislators are now looking into filing articles of impeachment against him if he is found guilty of having orchestrated the closing of the George Washington Bridge in order to punish a political rival. Christie has been ordered to produce personal emails related to the \u201cBridgegate\u201d scandal by a judge, as WNYC reports:\n\nThe decision on impeachment will be up to Democrat...",
+    "full_text_length": 3346,
+    "prediction": "Real",
+    "confidence": 0.583819866337187,
+    "model_used": "fakenews_logistic_20250530_0120",
+    "sentiment": {
+      "polarity": 0.0935009820426487,
+      "subjectivity": 0.3891905162738496,
+      "label": "Neutral"
+    },
+    "bias": {
+      "political_bias": 1.0,
+      "emotional_intensity": 0.0,
+      "tone": "Biased"
+    },
+    "feature_importance": {
+      "trump": -4.3553276585986795,
+      "did": -1.9982832950070282,
+      "shares": 1.9447493816681858,
+      "reports": -1.8461099821648588,
+      "trumps": -1.7500245497454074,
+      "george": -1.729772568860296,
+      "having": -1.5998329960471116,
+      "watch": 1.5985883099068119,
+      "going": -1.5156207576518121,
+      "donald trump": -1.4061702065038684
+    }
+  },
+  {
+    "id": 2,
+    "timestamp": "2025-05-30T11:34:47.007379",
+    "text": "11.3k SHARES SHARE THIS STORY\n\nDuring a Republican primary debate in September 2015, now-Republican nominee Donald Trump said that he never lobbied Florida Governor Jeb Bush for casino gambling because \u201che would\u2019ve gotten it, if I wanted it.\u201d But if that is true, then Donald Trump committed yet another yet another felonious offense by the racist mogul \u2013 this time for for lying under oath in a civil court deposition, which is perjury, as Newsweek reports:\n\nOne of these stories is a lie\u2014a detailed...",
+    "full_text_length": 5166,
+    "prediction": "Fake",
+    "confidence": 0.8717574433277102,
+    "model_used": "fakenews_logistic_20250530_0120",
+    "sentiment": {
+      "polarity": 0.0935182872682873,
+      "subjectivity": 0.5004460816960817,
+      "label": "Neutral"
+    },
+    "bias": {
+      "political_bias": 0.0,
+      "emotional_intensity": 0.011248593925759281,
+      "tone": "Neutral"
+    },
+    "feature_importance": {
+      "trump": -4.3553276585986795,
+      "did": -1.9982832950070282,
+      "shares": 1.9447493816681858,
+      "reports": -1.8461099821648588,
+      "trumps": -1.7500245497454074,
+      "wants": -1.5702922783890505,
+      "going": -1.5156207576518121,
+      "things": 1.5075482482623808,
+      "donald trump": -1.4061702065038684,
+      "clinton": -1.256204028266159
+    }
+  },
+  {
+    "id": 2,
+    "timestamp": "2025-05-30T11:34:47.056403",
+    "text": "Many individuals tuned into the 90-minute commercial-free debate on CNN and many of them turned the event into a drinking game, as Americans often do. However, the US Surgeon General warns that playing a game involving drinking each time Donald Trump tells a lie could result in alcohol poisoning.\r\n\r\nLast year, during the GOP debates, the Surgeon General, Vivek Murthy, warned to Americans that engaging in drinking games could be hazardous, \"especially with the field the republicans are giving us ...",
+    "full_text_length": 2213,
+    "prediction": "Fake",
+    "confidence": 0.5370644652804735,
+    "model_used": "fakenews_logistic_20250530_0120",
+    "sentiment": {
+      "polarity": 0.05800000000000001,
+      "subjectivity": 0.42200000000000004,
+      "label": "Neutral"
+    },
+    "bias": {
+      "political_bias": 0.0,
+      "emotional_intensity": 0.0,
+      "tone": "Neutral"
+    },
+    "feature_importance": {
+      "trump": -4.3553276585986795,
+      "trumps": -1.7500245497454074,
+      "going": -1.5156207576518121,
+      "donald trump": -1.4061702065038684,
+      "clinton": -1.256204028266159,
+      "time": 1.246448350321189,
+      "donald": -1.1950080184015088,
+      "baby": -1.1562659627354572,
+      "moment": 1.108520926078193,
+      "times": 1.0900616919317396
+    }
+  },
+  {
+    "id": 2,
+    "timestamp": "2025-05-30T11:34:47.106558",
+    "text": "13.6k SHARES SHARE THIS STORY\n\nHillary Clinton was almost universally declared the winner of tonight\u2019s debate by the mainstream media, but online polls and twitter trends said otherwise. The #TrumpWon hashtag soon began circulating and eventually was the top Trend in the United States.\n\nThe #1 trend on Twitter right now is #TrumpWon \u2013 thank you! \u2014 Donald J. Trump (@realDonaldTrump) September 27, 2016\n\nWhat\u2019s curious about that is not that it was trending but where it originated from \u2013 which will...",
+    "full_text_length": 2277,
+    "prediction": "Fake",
+    "confidence": 0.5295603384096278,
+    "model_used": "fakenews_logistic_20250530_0120",
+    "sentiment": {
+      "polarity": -0.038952380952380954,
+      "subjectivity": 0.3005238095238095,
+      "label": "Neutral"
+    },
+    "bias": {
+      "political_bias": 0.0,
+      "emotional_intensity": 0.0,
+      "tone": "Neutral"
+    },
+    "feature_importance": {
+      "trump": -4.3553276585986795,
+      "caught": -2.1818975484538283,
+      "shares": 1.9447493816681858,
+      "obama": -1.6263975056422024,
+      "donald trump": -1.4061702065038684,
+      "clinton": -1.256204028266159,
+      "donald": -1.1950080184015088,
+      "trying": -1.1054912169799092,
+      "late": 1.0585466021940846,
+      "online": -1.005623589903219
+    }
+  },
+  {
+    "id": 2,
+    "timestamp": "2025-05-30T11:34:47.167224",
+    "text": "13.8k SHARES SHARE THIS STORY\n\nS Trump\u2019s number one backer in Silicon Valley just had his secretive data company slapped with a major federal lawsuit for employment discrimination. The U.S. Department of Labor filed suit charging that Palantir Technologies, the Palo Alto technology company controlled by Republican businessman Peter Thiel, accusing him of systematically discriminating against Asian job applicants in the company\u2019s hiring process. Palantir is a federal government contractor to the ...",
+    "full_text_length": 3634,
+    "prediction": "Real",
+    "confidence": 0.7376873914417893,
+    "model_used": "fakenews_logistic_20250530_0120",
+    "sentiment": {
+      "polarity": 0.14161764705882354,
+      "subjectivity": 0.48539215686274517,
+      "label": "Positive"
+    },
+    "bias": {
+      "political_bias": -1.0,
+      "emotional_intensity": 0.0,
+      "tone": "Biased"
+    },
+    "feature_importance": {
+      "report": -4.531116837929226,
+      "trump": -4.3553276585986795,
+      "shares": 1.9447493816681858,
+      "secret": -1.8955863651327074,
+      "trumps": -1.7500245497454074,
+      "wants": -1.5702922783890505,
+      "donald trump": -1.4061702065038684,
+      "evidence": -1.383410951421958,
+      "hes": -1.3369057106927025,
+      "didnt": -1.2124924499398362
+    }
+  },
+  {
+    "id": 2,
+    "timestamp": "2025-05-30T11:34:47.223396",
+    "text": "Note In Arabic Found With NYC Bomb\u2026 Call Says There Will Be More Bombings\n\nPolice have found some very disturbing leads in the Chelsea bombing this last Saturday. The greatest suspicion is Muslim extremists who are claiming credit for the terror that injured dozens. The bomb in Chelsea injured 29 people, all discharged from the hospital. Another pressure-cooker bomb was found stashed in a Dumpster four blocks away.\n\nPolice are investigating just WHAT happened. While the leads come in, there are ...",
+    "full_text_length": 2836,
+    "prediction": "Real",
+    "confidence": 0.6670208145872453,
+    "model_used": "fakenews_logistic_20250530_0120",
+    "sentiment": {
+      "polarity": 0.01924783549783548,
+      "subjectivity": 0.4565313852813853,
+      "label": "Neutral"
+    },
+    "bias": {
+      "political_bias": -1.0,
+      "emotional_intensity": 0.0,
+      "tone": "Biased"
+    },
+    "feature_importance": {
+      "did": -1.9982832950070282,
+      "going": -1.5156207576518121,
+      "things": 1.5075482482623808,
+      "page": -1.3171569536113297,
+      "claim": -1.255651557018903,
+      "muslim": -1.250618107838548,
+      "time": 1.246448350321189,
+      "didnt": -1.2124924499398362,
+      "night": 1.1286723352477852,
+      "trying": -1.1054912169799092
+    }
+  },
+  {
+    "id": 2,
+    "timestamp": "2025-05-30T11:34:47.282388",
+    "text": "\n\nPosted by Frank Wilkenmeyer on 25 Sep 2016\n\nHow can you tell when a man is so far gone that he\u2019s obviously not fit to stand on a stage for 90 minutes? That opinion would likely differ from psychologist to psychologist, but certainly there are warning signs.\n\nDonald Trump has been running full-steam now for months. He\u2019s constantly on the campaign trail, under the hot lights of the cameras with little time for rest. He\u2019s a 70-year-old man and he refuses to let up. He\u2019s been not only preparing fo...",
+    "full_text_length": 1966,
+    "prediction": "Fake",
+    "confidence": 0.6588229980520047,
+    "model_used": "fakenews_logistic_20250530_0120",
+    "sentiment": {
+      "polarity": 0.09717908902691512,
+      "subjectivity": 0.5280538302277433,
+      "label": "Neutral"
+    },
+    "bias": {
+      "political_bias": 0.0,
+      "emotional_intensity": 0.0,
+      "tone": "Neutral"
+    },
+    "feature_importance": {
+      "trump": -4.3553276585986795,
+      "trumps": -1.7500245497454074,
+      "donald trump": -1.4061702065038684,
+      "hes": -1.3369057106927025,
+      "clinton": -1.256204028266159,
+      "time": 1.246448350321189,
+      "donald": -1.1950080184015088,
+      "man": -1.1305419594159196,
+      "night": 1.1286723352477852,
+      "trying": -1.1054912169799092
+    }
+  },
+  {
+    "id": 2,
+    "timestamp": "2025-05-30T11:34:47.344253",
+    "text": "Secret Video Records MASSIVE Hillary Event Flop!\n\nSoooo embarrassing for Hillary, Clinton. In Delaware, Ohio, Clinton was supposed to have a door-knocking event at 1 pm in the afternoon. One guy, who was documenting it for Donald Trump, showed up. He was it. No one came at all\u2026 when the staffers finally figured out who he was, they had him leave, but not before he got a gander at a whole lot of no one.\n\nI watched South Park last week and they joked that Clinton had maybe four supporters. It\u2019s lo...",
+    "full_text_length": 2812,
+    "prediction": "Fake",
+    "confidence": 0.5716381585339225,
+    "model_used": "fakenews_logistic_20250530_0120",
+    "sentiment": {
+      "polarity": 0.1170825906120024,
+      "subjectivity": 0.5580701977760802,
+      "label": "Positive"
+    },
+    "bias": {
+      "political_bias": 0.0,
+      "emotional_intensity": 0.0,
+      "tone": "Neutral"
+    },
+    "feature_importance": {
+      "trump": -4.3553276585986795,
+      "secret": -1.8955863651327074,
+      "trumps": -1.7500245497454074,
+      "things": 1.5075482482623808,
+      "donald trump": -1.4061702065038684,
+      "hes": -1.3369057106927025,
+      "clinton": -1.256204028266159,
+      "donald": -1.1950080184015088,
+      "panic": -1.1635705588393197,
+      "favorite": 1.1498028043432704
+    }
+  },
+  {
+    "id": 2,
+    "timestamp": "2025-05-30T11:34:47.406184",
+    "text": "CNN FURIOUS and Embarrassed After Trump Called Them Out For One Major Thing\n\nThis weekend, a bombing in New York City rocked the nation as Americans everywhere wondered if we were under attack again. Donald Trump responded to the attack almost immediately, accurately describing it as a \u201cbombing/\u201d CNN, for some inexplicable reason, criticized him for that \u2014 even though Hillary Clinton described the attack the exact same way. So CNN edited out Hillary\u2019s wording. And Donald Trump just ripped them a...",
+    "full_text_length": 2975,
+    "prediction": "Fake",
+    "confidence": 0.8468766587800375,
+    "model_used": "fakenews_logistic_20250530_0120",
+    "sentiment": {
+      "polarity": -0.055443640955004585,
+      "subjectivity": 0.49551193755739226,
+      "label": "Neutral"
+    },
+    "bias": {
+      "political_bias": 0.0,
+      "emotional_intensity": 0.01953125,
+      "tone": "Neutral"
+    },
+    "feature_importance": {
+      "trump": -4.3553276585986795,
+      "did": -1.9982832950070282,
+      "furious": -1.7987115842360655,
+      "obama": -1.6263975056422024,
+      "watch": 1.5985883099068119,
+      "wants": -1.5702922783890505,
+      "going": -1.5156207576518121,
+      "things": 1.5075482482623808,
+      "donald trump": -1.4061702065038684,
+      "hes": -1.3369057106927025
+    }
+  },
+  {
+    "id": 2,
+    "timestamp": "2025-05-30T11:34:47.445759",
+    "text": "New York bomb Suspect SUED Police!\n\nNow we find out that not only is Ahmad Rahami a terrorist and a murderer, he\u2019s an entitled whiner. Ahmad Rahami reported in a lawsuit that cops in Elizabeth, New Jersey were subjecting his family to discrimination because of their culture. Ironically, he was arrested for planting bombs around the Tri-state area\u2026 you know, his culture.\n\nIn the lawsuit, the family complained that local officials were trying to shut down their chicken restaurant that they had own...",
+    "full_text_length": 2430,
+    "prediction": "Real",
+    "confidence": 0.7663973642497085,
+    "model_used": "fakenews_logistic_20250530_0120",
+    "sentiment": {
+      "polarity": -0.017412968975468984,
+      "subjectivity": 0.44108213834776344,
+      "label": "Neutral"
+    },
+    "bias": {
+      "political_bias": 0.0,
+      "emotional_intensity": 0.0,
+      "tone": "Neutral"
+    },
+    "feature_importance": {
+      "despite": -2.7223259649407687,
+      "planning": -1.8301738447245555,
+      "things": 1.5075482482623808,
+      "hes": -1.3369057106927025,
+      "muslim": -1.250618107838548,
+      "time": 1.246448350321189,
+      "open": 1.1576986202377675,
+      "trying": -1.1054912169799092,
+      "crime": 1.0577601878353875,
+      "says": 1.0387928293073814
+    }
+  },
+  {
+    "id": 2,
+    "timestamp": "2025-05-30T11:34:47.493917",
+    "text": "Back when the news first broke about the pay-to-play corruption involving then-Secretary of State Hillary Clinton and the Clinton Foundation \u2013 where donors to the foundation were granted political access, including lavish White House State dinners \u2013 the Clinton campaign responded by focusing on all the supposed \u201cgood\u201d that the foundation has done over the years.\n\nI don\u2019t think anyone was fooled into thinking that the Clinton Foundation was anything other than a money-making machine for the Clint...",
+    "full_text_length": 2295,
+    "prediction": "Real",
+    "confidence": 0.6953643686505713,
+    "model_used": "fakenews_logistic_20250530_0120",
+    "sentiment": {
+      "polarity": 0.11734234234234232,
+      "subjectivity": 0.4045045045045045,
+      "label": "Positive"
+    },
+    "bias": {
+      "political_bias": 0.0,
+      "emotional_intensity": 0.0,
+      "tone": "Neutral"
+    },
+    "feature_importance": {
+      "despite": -2.7223259649407687,
+      "things": 1.5075482482623808,
+      "evidence": -1.383410951421958,
+      "clinton": -1.256204028266159,
+      "actually": 1.2187857199856225,
+      "friends": -0.9827840558306814,
+      "hair": 0.9669180568711212,
+      "charity": 0.9147032031968627,
+      "news": -0.8830044158107795,
+      "people": -0.8286069703292162
+    }
+  },
+  {
+    "id": 2,
+    "timestamp": "2025-05-30T11:34:47.558087",
+    "text": "Obama\u2019s Speech In New York Shocks Americans When He Says THIS About Attacks!\n\nI would say our President is useless, but really, this goes beyond useless and right into the realm of arrogance.\n\nHe has done some pretty brain dead things in the past and has made some incredibly insensitive and idiotic statements but this? This is just tone deaf to the nth power.\n\nI\u2019m guessing that if you\u2019re reading this right now, you keep up with the news, or at least have a tendency to follow breaking events. Tha...",
+    "full_text_length": 2799,
+    "prediction": "Real",
+    "confidence": 0.6857122978555324,
+    "model_used": "fakenews_logistic_20250530_0120",
+    "sentiment": {
+      "polarity": 0.04925480293127352,
+      "subjectivity": 0.5349224033047563,
+      "label": "Neutral"
+    },
+    "bias": {
+      "political_bias": 0.0,
+      "emotional_intensity": 0.02,
+      "tone": "Neutral"
+    },
+    "feature_importance": {
+      "breaking": -4.4073816070765295,
+      "trump": -4.3553276585986795,
+      "did": -1.9982832950070282,
+      "going": -1.5156207576518121,
+      "things": 1.5075482482623808,
+      "information": -1.3210650367871826,
+      "time": 1.246448350321189,
+      "actually": 1.2187857199856225,
+      "didnt": -1.2124924499398362,
+      "man": -1.1305419594159196
+    }
+  },
+  {
+    "id": 2,
+    "timestamp": "2025-05-30T11:34:47.610242",
+    "text": "Over the past several months, the American public has become increasingly aware of the massive corruption that has taken place at the Clinton Foundation since Hillary Clinton was Secretary of State.\n\nWell, a new report suggests that the foundation is in even more trouble than previously thought. According to the Daily Caller, the foundation, AIDS program distributed \u201cwatered down\u201d drugs to third-world countries.\n\nFrom The Daily Caller:\n\nFormer President Bill Clinton and his Clinton Health Access...",
+    "full_text_length": 2064,
+    "prediction": "Real",
+    "confidence": 0.5021729836745175,
+    "model_used": "fakenews_logistic_20250530_0120",
+    "sentiment": {
+      "polarity": 0.13163250148544264,
+      "subjectivity": 0.3899732620320856,
+      "label": "Positive"
+    },
+    "bias": {
+      "political_bias": 0.0,
+      "emotional_intensity": 0.0,
+      "tone": "Neutral"
+    },
+    "feature_importance": {
+      "report": -4.531116837929226,
+      "despite": -2.7223259649407687,
+      "best": 1.8287736222087374,
+      "evidence": -1.383410951421958,
+      "clinton": -1.256204028266159,
+      "charity": 0.9147032031968627,
+      "health": 0.9086152547392298,
+      "president": -0.8959322014330097,
+      "news": -0.8830044158107795,
+      "immediately": -0.8287811037930463
+    }
+  },
+  {
+    "id": 2,
+    "timestamp": "2025-05-30T11:34:47.674396",
+    "text": "According to this, the Arizona state legislature needs some remedial courses on how to word their bills so that they don\u2019t end up with laws that unintentionally ban perfectly normal parenting activities.\n\nCase in point.\n\nThe specific law criminalizes ANY contact between an adult and a child\u2019s genitals, so if you\u2019re a parent of a child and you\u2019ve changed his/her diaper, or given him/her a bath, you\u2019re a felon. For real.\n\nThis is what happens when you have terrible legislators who pass laws forbid...",
+    "full_text_length": 2660,
+    "prediction": "Real",
+    "confidence": 0.767487373595749,
+    "model_used": "fakenews_logistic_20250530_0120",
+    "sentiment": {
+      "polarity": 0.12236552028218695,
+      "subjectivity": 0.6070546737213404,
+      "label": "Positive"
+    },
+    "bias": {
+      "political_bias": 0.0,
+      "emotional_intensity": 0.023419203747072598,
+      "tone": "Neutral"
+    },
+    "feature_importance": {
+      "best": 1.8287736222087374,
+      "ban": -1.4104250580583977,
+      "normal": 0.9385162134842369,
+      "sexual": 0.9141975680775785,
+      "explains": 0.8750134863395433,
+      "people": -0.8286069703292162,
+      "state": -0.8178456028785138,
+      "supreme": -0.7727515593238098,
+      "children": -0.7580007537183435,
+      "use": 0.7168560568500568
+    }
+  },
+  {
+    "id": 2,
+    "timestamp": "2025-05-30T11:34:47.735013",
+    "text": "Michelle Obama NOT Leaving The White House \u2013 Hillary Clinton Has Terrifying New Role For Her!?!?\n\nThe idea that I might have to spend the next 4 years continuing to cover the Obamas is actually making me a little ill. I was done with them after the first few days of the Barack Obama Presidency, but it would appear that Hillary Clinton has some roles for the President and First Lady after her coronation election.\n\nWhat exactly is First Lady Michelle Obama\u2019s legacy? Trying to force our growing chi...",
+    "full_text_length": 2881,
+    "prediction": "Fake",
+    "confidence": 0.5197544859458596,
+    "model_used": "fakenews_logistic_20250530_0120",
+    "sentiment": {
+      "polarity": 0.01568446088794925,
+      "subjectivity": 0.4784090909090908,
+      "label": "Neutral"
+    },
+    "bias": {
+      "political_bias": -1.0,
+      "emotional_intensity": 0.0,
+      "tone": "Biased"
+    },
+    "feature_importance": {
+      "plans": -1.72692396875073,
+      "obama": -1.6263975056422024,
+      "having": -1.5998329960471116,
+      "wants": -1.5702922783890505,
+      "things": 1.5075482482623808,
+      "clinton": -1.256204028266159,
+      "time": 1.246448350321189,
+      "actually": 1.2187857199856225,
+      "trying": -1.1054912169799092,
+      "tweet": -0.9824835218625464
+    }
+  },
+  {
+    "id": 2,
+    "timestamp": "2025-05-30T11:34:47.791727",
+    "text": "New Clinton Foundation SCANDAL Just Broke \u2013 This Is What Hillary ACTUALLY Thinks About Black People\u2026\n\nThis is just criminal and it is no surprise it involves the Clinton Health Access Initiative. Anything with \u2018Clinton\u2019 in it has to be corrupt, but this resulted in the deaths of many, many Africans. They distributed \u201cwatered-down\u201d HIV/AIDs drugs to patients, virtually sentencing them to death. An Indian drug manufacturer called Ranbaxy was behind this\u2026 the question is, did the Clintons know abou...",
+    "full_text_length": 4608,
+    "prediction": "Real",
+    "confidence": 0.5500183899402616,
+    "model_used": "fakenews_logistic_20250530_0120",
+    "sentiment": {
+      "polarity": 0.056714766714766704,
+      "subjectivity": 0.45620971620971634,
+      "label": "Neutral"
+    },
+    "bias": {
+      "political_bias": 0.0,
+      "emotional_intensity": 0.0,
+      "tone": "Neutral"
+    },
+    "feature_importance": {
+      "report": -4.531116837929226,
+      "despite": -2.7223259649407687,
+      "did": -1.9982832950070282,
+      "best": 1.8287736222087374,
+      "star": 1.7684459950382676,
+      "things": 1.5075482482623808,
+      "banned": -1.5033126564208186,
+      "evidence": -1.383410951421958,
+      "clinton": -1.256204028266159,
+      "actually": 1.2187857199856225
+    }
+  },
+  {
+    "id": 2,
+    "timestamp": "2025-05-30T11:34:47.842241",
+    "text": "BREAKING: Judge DEMANDS Release Of Clinton\u2019s Security Training Files \u2013 She Has 5 Days\u2026\n\nJust like Barack Obama and many people in his orbit, Hillary Clinton and her minions could never, ever in a million years pass a background security check. There are probably numerous terrorists who have cleaner backgrounds than these people and that\u2019s no joke. They shouldn\u2019t be cleared to clean a toilet there.\n\nThe Daily Caller News Foundation has been trying to get documents from the State Department foreve...",
+    "full_text_length": 3628,
+    "prediction": "Real",
+    "confidence": 0.636160790733389,
+    "model_used": "fakenews_logistic_20250530_0120",
+    "sentiment": {
+      "polarity": 0.05635585175058861,
+      "subjectivity": 0.3930916305916307,
+      "label": "Neutral"
+    },
+    "bias": {
+      "political_bias": 0.0,
+      "emotional_intensity": 0.0,
+      "tone": "Neutral"
+    },
+    "feature_importance": {
+      "breaking": -4.4073816070765295,
+      "obama": -1.6263975056422024,
+      "things": 1.5075482482623808,
+      "hell": -1.4829671394678674,
+      "information": -1.3210650367871826,
+      "clinton": -1.256204028266159,
+      "time": 1.246448350321189,
+      "trying": -1.1054912169799092,
+      "th": 1.0665121446225114,
+      "demands": -1.0106774649033812
+    }
+  },
+  {
+    "id": 2,
+    "timestamp": "2025-05-30T11:34:47.889912",
+    "text": "There\u2019s already been hints from NBC News that Lester Holt, the moderator for the first presidential debate between Donald Trump and Hillary Clinton, will not be fact checking the candidates. This, of course, will allow Trump to say anything he pleases without being held accountable \u2013 except by Hillary Clinton.\n\nBut to make matters worse, all cable news networks (including those critical of Trump) are pledging to be completely spineless, and will not offer any on-screen fact checks to any comment...",
+    "full_text_length": 2383,
+    "prediction": "Fake",
+    "confidence": 0.7538804186688548,
+    "model_used": "fakenews_logistic_20250530_0120",
+    "sentiment": {
+      "polarity": 0.010008169934640519,
+      "subjectivity": 0.5462418300653595,
+      "label": "Neutral"
+    },
+    "bias": {
+      "political_bias": 0.0,
+      "emotional_intensity": 0.0,
+      "tone": "Neutral"
+    },
+    "feature_importance": {
+      "trump": -4.3553276585986795,
+      "jennifer": -2.833057545388453,
+      "did": -1.9982832950070282,
+      "trumps": -1.7500245497454074,
+      "donald trump": -1.4061702065038684,
+      "clinton": -1.256204028266159,
+      "time": 1.246448350321189,
+      "donald": -1.1950080184015088,
+      "open": 1.1576986202377675,
+      "news": -0.8830044158107795
+    }
+  },
+  {
+    "id": 2,
+    "timestamp": "2025-05-30T11:34:47.941818",
+    "text": "Advertisement - story continues below\n\nOne of former President Bill Clinton\u2019s oldest friends has come forward and said what she believed was wrong with Democrat presidential nominee Hillary Clinton, and if she\u2019s right, it could be detrimental to the former secretary of state.\n\nDolly Kyle, author of \u201cHillary the Other Woman,\u201d said Clinton has been \u201c\u2019cruisin\u2019 for a bruisin\u2019,\u201d because she\u2019s so angry and driven by rage. \u201cPeople like that eventually break down, physically.\u201d\n\n\u201cHillary Clinton is not p...",
+    "full_text_length": 2162,
+    "prediction": "Real",
+    "confidence": 0.5241579145763923,
+    "model_used": "fakenews_logistic_20250530_0120",
+    "sentiment": {
+      "polarity": -0.07349019293463736,
+      "subjectivity": 0.4421449949227726,
+      "label": "Neutral"
+    },
+    "bias": {
+      "political_bias": 0.0,
+      "emotional_intensity": 0.0,
+      "tone": "Neutral"
+    },
+    "feature_importance": {
+      "wants": -1.5702922783890505,
+      "evidence": -1.383410951421958,
+      "clinton": -1.256204028266159,
+      "claim": -1.255651557018903,
+      "friends": -0.9827840558306814,
+      "health": 0.9086152547392298,
+      "bad": 0.9038142588160947,
+      "president": -0.8959322014330097,
+      "news": -0.8830044158107795,
+      "people": -0.8286069703292162
+    }
+  },
+  {
+    "id": 2,
+    "timestamp": "2025-05-30T11:34:48.005215",
+    "text": "America needs to get with the program when it comes to immigration. Yes, we are \u201ca nation of immigrants,\u201d the proverbial \u201cmelting pot.\u201d More importantly we are UNITED STATES of AMERICA.\n\nThere should be no more of this each to their own garbage when it comes to how immigrants want to live their lives. If they want to stick with their own programs then they should have stayed put in their countries of origin.\n\n(Via JewsNews) Quebec mayor gives Muslim \u2018refugees\u2019 a little piece of his mind by spill...",
+    "full_text_length": 2898,
+    "prediction": "Real",
+    "confidence": 0.5744960580708748,
+    "model_used": "fakenews_logistic_20250530_0120",
+    "sentiment": {
+      "polarity": 0.19301827801827798,
+      "subjectivity": 0.5292724867724867,
+      "label": "Positive"
+    },
+    "bias": {
+      "political_bias": 0.0,
+      "emotional_intensity": 0.0,
+      "tone": "Neutral"
+    },
+    "feature_importance": {
+      "trump": -4.3553276585986795,
+      "muslim": -1.250618107838548,
+      "open": 1.1576986202377675,
+      "muslims": -1.0241055378718886,
+      "finally": 0.8914534546874515,
+      "mean": 0.8710254081381353,
+      "texas": -0.857825473360064,
+      "control": -0.8198022343483705,
+      "come": -0.8176451362246775,
+      "way": 0.7989187392124397
+    }
+  },
+  {
+    "id": 2,
+    "timestamp": "2025-05-30T11:34:48.060320",
+    "text": "White Guy Walled In Car By BlackLivesMatter Protesters \u2013 They See What He\u2019s Brandishing And Scatter\u2026\n\nWhat do you do if you\u2019re sitting in your vehicle and suddenly you\u2019re surrounded by a seemingly hostile group?\n\nStep one should obviously be to lock your doors to make it just a little bit harder for them to break in.\n\nStep two is up to you. Do you put the pedal to the floor and power through? Do you call the police and wait.\n\nThis guy had another idea entirely and it worked like a charm.\n\n\u00d7 101 ...",
+    "full_text_length": 1919,
+    "prediction": "Real",
+    "confidence": 0.8623237228133308,
+    "model_used": "fakenews_logistic_20250530_0120",
+    "sentiment": {
+      "polarity": 0.07987692862692862,
+      "subjectivity": 0.4047322122322123,
+      "label": "Neutral"
+    },
+    "bias": {
+      "political_bias": 0.0,
+      "emotional_intensity": 0.0,
+      "tone": "Neutral"
+    },
+    "feature_importance": {
+      "did": -1.9982832950070282,
+      "best": 1.8287736222087374,
+      "going": -1.5156207576518121,
+      "things": 1.5075482482623808,
+      "hes": -1.3369057106927025,
+      "man": -1.1305419594159196,
+      "people": -0.8286069703292162,
+      "considering": -0.825474065423761,
+      "like": 0.8227083589465254,
+      "stealing": -0.7162713748780621
+    }
+  },
+  {
+    "id": 2,
+    "timestamp": "2025-05-30T11:34:48.115075",
+    "text": "Chicago Environmentalist Scumbags\n\nLeftists are in constant contradiction, like the Chicago environmentalist scumbags.\n\nNo matter the issue, Leftists are for it, before they are against it. As long as the issues doesn\u2019t impact Liberals personally, they remain content.\n\nLeftist support the military, until they decide to make the military into baby-killers. Also, Leftist embrace law enforcement, until it\u2019s time for them decry law enforcement.\n\nNow we have another such issue as reported in the Wash...",
+    "full_text_length": 1662,
+    "prediction": "Real",
+    "confidence": 0.5651007383855801,
+    "model_used": "fakenews_logistic_20250530_0120",
+    "sentiment": {
+      "polarity": 0.041333333333333326,
+      "subjectivity": 0.31433333333333335,
+      "label": "Neutral"
+    },
+    "bias": {
+      "political_bias": -1.0,
+      "emotional_intensity": 0.0,
+      "tone": "Biased"
+    },
+    "feature_importance": {
+      "george": -1.729772568860296,
+      "plans": -1.72692396875073,
+      "obama": -1.6263975056422024,
+      "time": 1.246448350321189,
+      "forced": -1.1658872597585752,
+      "times": 1.0900616919317396,
+      "friends": -0.9827840558306814,
+      "like": 0.8227083589465254,
+      "politics": -0.7775720919959592,
+      "make": 0.6955312402956356
+    }
+  },
+  {
+    "id": 2,
+    "timestamp": "2025-05-30T11:34:48.163206",
+    "text": "This is a true story. General Stanley McChrystal was the Commander of US Forces in Afghanistan and he had frequent disagreements on the conduct of the war with his Commander-in-Chief.\n\nAt one point McChrystal was called into the Oval Office and he knew his Army career was about to be over.\n\nWhen former U.S. Military Commander in Afghanistan, Stanley McChrystal, was called into the Oval Office by Barack Obama, he knew things weren\u2019t going to go well when the President accused him of not supportin...",
+    "full_text_length": 1397,
+    "prediction": "Real",
+    "confidence": 0.5932907782324186,
+    "model_used": "fakenews_logistic_20250530_0120",
+    "sentiment": {
+      "polarity": 0.10625,
+      "subjectivity": 0.4727777777777778,
+      "label": "Positive"
+    },
+    "bias": {
+      "political_bias": 0.0,
+      "emotional_intensity": 0.0,
+      "tone": "Neutral"
+    },
+    "feature_importance": {
+      "obama": -1.6263975056422024,
+      "going": -1.5156207576518121,
+      "things": 1.5075482482623808,
+      "career": -1.1849672513465597,
+      "man": -1.1305419594159196,
+      "men": -1.0664827984856302,
+      "war": -1.0351958123953566,
+      "happy": 0.9406514005153066,
+      "leaving": -0.9270434140334138,
+      "president": -0.8959322014330097
+    }
+  },
+  {
+    "id": 2,
+    "timestamp": "2025-05-30T11:34:48.213544",
+    "text": "SURPRISE! 70% Of Charlotte RIOTERS Are Not From There \u2013 Guess What That Means\u2026 [VIDEO]\n\nImagine that\u2026 at least 70% of the rioters in Charlotte, North Carolina were bused in. They had out of state IDs. Looks like it was well planned. I know here in Tulsa, hubby had to leave work early yesterday. We got word that Black Lives Matter was busing people into Tulsa as well. In our case, things stayed pretty peaceful fortunately. They weren\u2019t so lucky in Charlotte. The head of the police union there cam...",
+    "full_text_length": 2956,
+    "prediction": "Real",
+    "confidence": 0.8302549354250292,
+    "model_used": "fakenews_logistic_20250530_0120",
+    "sentiment": {
+      "polarity": 0.04583964646464648,
+      "subjectivity": 0.3851235569985571,
+      "label": "Neutral"
+    },
+    "bias": {
+      "political_bias": 1.0,
+      "emotional_intensity": 0.0,
+      "tone": "Biased"
+    },
+    "feature_importance": {
+      "did": -1.9982832950070282,
+      "things": 1.5075482482623808,
+      "got": 1.149771933662576,
+      "man": -1.1305419594159196,
+      "night": 1.1286723352477852,
+      "looks": 0.9145196782972542,
+      "people": -0.8286069703292162,
+      "like": 0.8227083589465254,
+      "state": -0.8178456028785138,
+      "way": 0.7989187392124397
+    }
+  },
+  {
+    "id": 2,
+    "timestamp": "2025-05-30T11:34:48.248775",
+    "text": "Hillary Clinton\u2019s health is the top issue in the Presidential campaign. Once considered a \u201cconspiracy theory,\u201d Americans now see that Hillary Clinton suffers from serious problems, including neurological diseases.\n\nAfter her September 11th collapse and fainting, even the pro-Hillary media can\u2019t hide the truth.\n\nNow, expert Clif Hite (below) comes up with the most compelling theory about Hillary Clinton\u2019s health yet, and you haven\u2019t heard it before. He believes Hillary has died, and is replaced b...",
+    "full_text_length": 1309,
+    "prediction": "Fake",
+    "confidence": 0.6993765004770536,
+    "model_used": "fakenews_logistic_20250530_0120",
+    "sentiment": {
+      "polarity": 0.050925925925925916,
+      "subjectivity": 0.425,
+      "label": "Neutral"
+    },
+    "bias": {
+      "political_bias": 0.0,
+      "emotional_intensity": 0.0,
+      "tone": "Neutral"
+    },
+    "feature_importance": {
+      "report": -4.531116837929226,
+      "fake": -2.0567232244766473,
+      "secret": -1.8955863651327074,
+      "reports": -1.8461099821648588,
+      "clinton": -1.256204028266159,
+      "using": -1.0918046478620742,
+      "th": 1.0665121446225114,
+      "killed": -0.9231441718013408,
+      "happened": -0.9109187771501116,
+      "health": 0.9086152547392298
+    }
+  },
+  {
+    "id": 2,
+    "timestamp": "2025-05-30T11:34:48.308423",
+    "text": "EXPOSED: Soros Funding Fake Veterans\u2019 PAC To Take Trump Down\n\nA couple months ago, Discover the Networks revealed a list of 187 groups who were funded by Soros. They have naturally been attacking the presidential candidate who is generally against their values like open borders, amnesty, giving illegals voting rights, Muslim migration and social justice. So, WHY then is Soros caught again?\n\nNow a new organization is going after Trump and sure enough, they\u2019re funded by Soros TOO! It\u2019s called \u2018Com...",
+    "full_text_length": 3674,
+    "prediction": "Fake",
+    "confidence": 0.5567082224326144,
+    "model_used": "fakenews_logistic_20250530_0120",
+    "sentiment": {
+      "polarity": -0.004876019671938048,
+      "subjectivity": 0.4339561798745473,
+      "label": "Neutral"
+    },
+    "bias": {
+      "political_bias": -1.0,
+      "emotional_intensity": 0.0,
+      "tone": "Biased"
+    },
+    "feature_importance": {
+      "report": -4.531116837929226,
+      "trump": -4.3553276585986795,
+      "caught": -2.1818975484538283,
+      "fake": -2.0567232244766473,
+      "george": -1.729772568860296,
+      "going": -1.5156207576518121,
+      "things": 1.5075482482623808,
+      "list": -1.4698733885259232,
+      "donald trump": -1.4061702065038684,
+      "information": -1.3210650367871826
+    }
+  },
+  {
+    "id": 2,
+    "timestamp": "2025-05-30T11:34:48.347716",
+    "text": "OUTRAGE! Obama Spends $770M Dollars In Tax Payer Money To Renovate Mosques Over Seas\u2026 [VIDEO]\n\nCBS exposing Obama paying for the renovation of mosques is actually a story from 2015. But it got little media attention then and he\u2019s still doing it. He\u2019s diverting hundreds of millions of US dollars to overseas mosques to renovate them. Tell me again how he is not a Muslim. This just screams it. And people wonder why he grovels before the Mullahs of Iran\u2026 why he gives ISIS a pass\u2026 why he is terraform...",
+    "full_text_length": 3216,
+    "prediction": "Real",
+    "confidence": 0.6095657972139416,
+    "model_used": "fakenews_logistic_20250530_0120",
+    "sentiment": {
+      "polarity": 0.08202728341617231,
+      "subjectivity": 0.42338998450109566,
+      "label": "Neutral"
+    },
+    "bias": {
+      "political_bias": 1.0,
+      "emotional_intensity": 0.0,
+      "tone": "Biased"
+    },
+    "feature_importance": {
+      "justin": -2.399912760909823,
+      "did": -1.9982832950070282,
+      "obama": -1.6263975056422024,
+      "things": 1.5075482482623808,
+      "hes": -1.3369057106927025,
+      "muslim": -1.250618107838548,
+      "actually": 1.2187857199856225,
+      "didnt": -1.2124924499398362,
+      "pay": -1.2117774439897617,
+      "got": 1.149771933662576
+    }
+  },
+  {
+    "id": 2,
+    "timestamp": "2025-05-30T11:34:48.381601",
+    "text": "BOOM! Marines Send TERRORISTS Scathing Message [VIDEO]\n\nThere\u2019s a reason that it\u2019s called terrorism. It\u2019s because ISIS, and terrorist groups like them, use fear and propaganda as a means to intimidate people into getting what they want. With ISIS and other Islamic terrorists, what they want is to force people to convert to Islam and live their lives subservient to their Muslim rulers. Anyone who refuses is branded an infidel and faces death. ISIS even puts out hit lists of those who they want to...",
+    "full_text_length": 2265,
+    "prediction": "Real",
+    "confidence": 0.6075510011866175,
+    "model_used": "fakenews_logistic_20250530_0120",
+    "sentiment": {
+      "polarity": 0.09910743378485314,
+      "subjectivity": 0.5744169808685939,
+      "label": "Neutral"
+    },
+    "bias": {
+      "political_bias": -1.0,
+      "emotional_intensity": 0.0,
+      "tone": "Biased"
+    },
+    "feature_importance": {
+      "furious": -1.7987115842360655,
+      "things": 1.5075482482623808,
+      "list": -1.4698733885259232,
+      "afraid": -1.409642452596035,
+      "muslim": -1.250618107838548,
+      "time": 1.246448350321189,
+      "actually": 1.2187857199856225,
+      "series": 1.0451197922657962,
+      "getting": -0.9856324442100978,
+      "fight": -0.862187647102641
+    }
+  },
+  {
+    "id": 2,
+    "timestamp": "2025-05-30T11:34:48.443565",
+    "text": "BOOM! Charlotte Officials FINALLY Silence Rioters With One E P I C Announcement! [VIDEO]\n\nThe rioting in Charlotte has practically crippled the city. Businesses were looted, windows were smashed. So-called protesters have committed any number of crimes, from arson and assault, to murder. North Carolina Governor Pat McCrory was forced to declare a state of emergency and called in the National Guard to get the situation under control. And now, government officials have had enough too. They just ma...",
+    "full_text_length": 2733,
+    "prediction": "Real",
+    "confidence": 0.7075127702827397,
+    "model_used": "fakenews_logistic_20250530_0120",
+    "sentiment": {
+      "polarity": 0.010327517600244862,
+      "subjectivity": 0.5436899295990207,
+      "label": "Neutral"
+    },
+    "bias": {
+      "political_bias": 0.0,
+      "emotional_intensity": 0.022172949002217293,
+      "tone": "Neutral"
+    },
+    "feature_importance": {
+      "caught": -2.1818975484538283,
+      "things": 1.5075482482623808,
+      "stewart": -1.3939247984167322,
+      "time": 1.246448350321189,
+      "forced": -1.1658872597585752,
+      "times": 1.0900616919317396,
+      "custody": -1.047434958277512,
+      "says": 1.0387928293073814,
+      "finally": 0.8914534546874515,
+      "attack": -0.8380473992234925
+    }
+  },
+  {
+    "id": 2,
+    "timestamp": "2025-05-30T11:34:48.484673",
+    "text": "BREAKING: Steps to FORCE FBI Director Comey to Resign In Process \u2013 Hearing Decides His Fate Sept 28\n\nThe FBI investigation of the Hillary Clinton e-mail scandal, where they acknowledged criminal activity yet refused to charge her anyway, has ignited a firestorm of criticism\u2026 and it looks like FBI Director James Comey might be the first casualty when heads start to roll. Comey gave immunity to all of Hillary\u2019s top aides, including Chief of Staff Cheryl Mills, even though Mills had refused to coop...",
+    "full_text_length": 2594,
+    "prediction": "Real",
+    "confidence": 0.635245731430272,
+    "model_used": "fakenews_logistic_20250530_0120",
+    "sentiment": {
+      "polarity": 0.08505205112347969,
+      "subjectivity": 0.4762883941455371,
+      "label": "Neutral"
+    },
+    "bias": {
+      "political_bias": 0.0,
+      "emotional_intensity": 0.0,
+      "tone": "Neutral"
+    },
+    "feature_importance": {
+      "breaking": -4.4073816070765295,
+      "did": -1.9982832950070282,
+      "having": -1.5998329960471116,
+      "things": 1.5075482482623808,
+      "hes": -1.3369057106927025,
+      "clinton": -1.256204028266159,
+      "fbi": -1.2402017959302205,
+      "career": -1.1849672513465597,
+      "prison": -1.171553590048655,
+      "th": 1.0665121446225114
+    }
+  },
+  {
+    "id": 2,
+    "timestamp": "2025-05-30T11:34:48.533787",
+    "text": "Hillary\u2019s TOP Donor Country Just Auctioned Off ISIS Sex Slaves\u2026\n\nWhy in the hell do we still support Saudi Arabia? We don\u2019t need their oil\u2026 we would make do. The majority of the 9/11 terrorists came from Saudi Arabia, as does the Bin Laden family. The Saudi deputy crown prince told reporters in June the Kingdom of Saudi Arabia has funded 20% of Hillary Clinton\u2019s campaign. She\u2019s taking money from a stone cold enemy and that\u2019s not the only one by any means. You do not consort or take money from th...",
+    "full_text_length": 3150,
+    "prediction": "Real",
+    "confidence": 0.635354441562192,
+    "model_used": "fakenews_logistic_20250530_0120",
+    "sentiment": {
+      "polarity": -0.019437619437619444,
+      "subjectivity": 0.5164248664248664,
+      "label": "Neutral"
+    },
+    "bias": {
+      "political_bias": 0.0,
+      "emotional_intensity": 0.0,
+      "tone": "Neutral"
+    },
+    "feature_importance": {
+      "marriage": -1.9785776196375424,
+      "watch": 1.5985883099068119,
+      "going": -1.5156207576518121,
+      "things": 1.5075482482623808,
+      "hell": -1.4829671394678674,
+      "clinton": -1.256204028266159,
+      "time": 1.246448350321189,
+      "false": -1.1762195910310154,
+      "open": 1.1576986202377675,
+      "makes": 1.1462263021814976
+    }
+  },
+  {
+    "id": 2,
+    "timestamp": "2025-05-30T11:34:48.578341",
+    "text": "Advertisement - story continues below\n\nThe first presidential debate between Democrat nominee Hillary Clinton and Republican rival Donald Trump was fully of fiery exchanges between the two candidates, as well as several questionable moments.\n\nNBC\u2019s Lester Holt, the moderator for the debate, started getting flak before the debate was over after he repeatedly interrupted Trump to \u201cfact-check\u201d him, except that his fact-checks were more or less wrong.\n\nIn one of the more contentious exchanges, Holt ...",
+    "full_text_length": 2236,
+    "prediction": "Fake",
+    "confidence": 0.7781543189679088,
+    "model_used": "fakenews_logistic_20250530_0120",
+    "sentiment": {
+      "polarity": 0.08207671957671958,
+      "subjectivity": 0.5029100529100528,
+      "label": "Neutral"
+    },
+    "bias": {
+      "political_bias": 0.0,
+      "emotional_intensity": 0.0,
+      "tone": "Neutral"
+    },
+    "feature_importance": {
+      "trump": -4.3553276585986795,
+      "did": -1.9982832950070282,
+      "trumps": -1.7500245497454074,
+      "donald trump": -1.4061702065038684,
+      "hes": -1.3369057106927025,
+      "information": -1.3210650367871826,
+      "clinton": -1.256204028266159,
+      "time": 1.246448350321189,
+      "donald": -1.1950080184015088,
+      "got": 1.149771933662576
+    }
+  },
+  {
+    "id": 2,
+    "timestamp": "2025-05-30T11:34:48.631504",
+    "text": "Well THAT\u2019S Weird. If the Birther movement is racist\u2026 does that mean that the person who wrote this had it in for Obama?\n\nWhat if that person is \u2026 Obama?\n\nBreitbart put this out, taken from the AP, entitled \u201c\u201cKenyan-born Obama all set for US Senate\u201d That was June 2004.\n\nKenyan-born US Senate hopeful, Barrack Obama, appeared set to take over the Illinois Senate seat after his main rival, Jack Ryan, dropped out of the race on Friday night amid a furor over lurid sex club allegations. The allegatio...",
+    "full_text_length": 2247,
+    "prediction": "Real",
+    "confidence": 0.7358360503508866,
+    "model_used": "fakenews_logistic_20250530_0120",
+    "sentiment": {
+      "polarity": 0.027951388888888887,
+      "subjectivity": 0.5050347222222223,
+      "label": "Neutral"
+    },
+    "bias": {
+      "political_bias": 0.0,
+      "emotional_intensity": 0.0,
+      "tone": "Neutral"
+    },
+    "feature_importance": {
+      "obama": -1.6263975056422024,
+      "actually": 1.2187857199856225,
+      "night": 1.1286723352477852,
+      "gave": 0.9397866206514288,
+      "jack": -0.9158890007032033,
+      "news": -0.8830044158107795,
+      "mean": 0.8710254081381353,
+      "screen": -0.8564088628343431,
+      "does": -0.8345615093646704,
+      "way": 0.7989187392124397
+    }
+  },
+  {
+    "id": 2,
+    "timestamp": "2025-05-30T11:34:48.675029",
+    "text": "\n\nThere\u2019s a lot to be discussed about last night\u2019s debate between Hillary Clinton and Donald Trump. One thing that has baffled many is how Hillary seemed so ready with answers and detailed facts and, almost as bizarrely, she didn\u2019t cough or reach for water once.\n\nWell, this twitter user might have an answer. Do you see it?\n\nI think we all know why #TrumpWon pic.twitter.com/nwZRxvkX81 \u2014 USA For Trump 2016 (@USAforTrump2016) September 27, 2016\n\nThis wouldn\u2019t be the first time Hillary had to use a ...",
+    "full_text_length": 845,
+    "prediction": "Fake",
+    "confidence": 0.5930531003505128,
+    "model_used": "fakenews_logistic_20250530_0120",
+    "sentiment": {
+      "polarity": 0.29,
+      "subjectivity": 0.495,
+      "label": "Positive"
+    },
+    "bias": {
+      "political_bias": 0.0,
+      "emotional_intensity": 0.0,
+      "tone": "Neutral"
+    },
+    "feature_importance": {
+      "trump": -4.3553276585986795,
+      "donald trump": -1.4061702065038684,
+      "page": -1.3171569536113297,
+      "clinton": -1.256204028266159,
+      "time": 1.246448350321189,
+      "actually": 1.2187857199856225,
+      "didnt": -1.2124924499398362,
+      "donald": -1.1950080184015088,
+      "hiding": -0.8883862302927501,
+      "news": -0.8830044158107795
+    }
+  },
+  {
+    "id": 2,
+    "timestamp": "2025-05-30T11:34:48.729427",
+    "text": "People Noticed Something Odd About Hillary\u2019s Outfit at the Debate Last Night\n\nThere\u2019s a lot that could be discussed about last night\u2019s debate, like the unfair debate moderator asking questions to help Hillary, but that\u2019s not the main concern right now.\n\nThere is one thing that has baffled many\u2026. Hillary didn\u2019t appear to be her usually stupid coughing self! She was so ready with answers and detailed facts. Almost just as bizarre was that not once did she sputter or reach for a glass of water. Thi...",
+    "full_text_length": 2529,
+    "prediction": "Real",
+    "confidence": 0.8724521618696937,
+    "model_used": "fakenews_logistic_20250530_0120",
+    "sentiment": {
+      "polarity": 0.08622740563530037,
+      "subjectivity": 0.47187191463507266,
+      "label": "Neutral"
+    },
+    "bias": {
+      "political_bias": 0.0,
+      "emotional_intensity": 0.0,
+      "tone": "Neutral"
+    },
+    "feature_importance": {
+      "did": -1.9982832950070282,
+      "going": -1.5156207576518121,
+      "things": 1.5075482482623808,
+      "clinton": -1.256204028266159,
+      "claim": -1.255651557018903,
+      "time": 1.246448350321189,
+      "actually": 1.2187857199856225,
+      "didnt": -1.2124924499398362,
+      "tv": 1.2034811624346646,
+      "night": 1.1286723352477852
+    }
+  }
+]
